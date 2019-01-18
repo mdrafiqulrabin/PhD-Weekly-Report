@@ -38,3 +38,4 @@ Plan for the next week:
 
 12. Any skill that you want to practice?
 
+Refs: https://uofh-my.sharepoint.com/personal/maalipou_cougarnet_uh_edu/_layouts/15/WopiFrame.aspx?sourcedoc={6abde6f1-c2a1-497b-ae1f-861ed98f4e5b}&action=view&wd=target%28Lab%20Manual.one%7C%2FWeekly%20Report%20Format%7C72aee8f6-7308-fc40-83f0-793ec74ecac9%2F%29
