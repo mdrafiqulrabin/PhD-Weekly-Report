@@ -1,0 +1,59 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - Put result of the Csmith differential testing (table-1) at overleaf.
+  - Install gcc compilers into Sabine.
+  - Read and write summaries of 3 papers.
+  - Present an interesting paper in team group meeting.
+  - Attend to Architecture, Statistics and Programming languages course.
+
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+  - Reading & Writing: This information has been given in question no 06.
+  - Presentation: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Presentation/20190118_Rabin.pptx
+  - Coding & Result: This information has been given in question no 04 & 05.
+
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+  - Result of differential testing at local pc: result.tex (table-1): https://www.overleaf.com/9713562856nbbcwgbqnhvz
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+  - Differential testing at local pc: https://github.com/mdrafiqulrabin/Doctoral-Research/blob/master/differential_testing/pcmac_csmith/pc_csmith_args.sh
+  - Differential testing at maxwell: https://github.com/mdrafiqulrabin/Doctoral-Research/blob/master/differential_testing/maxwell_csmith/mw_csmith_args.sh
+
+05. Analysis that you performed. Include link to the dataset and results.  
+
+  - Result of differential testing at local pc: https://github.com/mdrafiqulrabin/Doctoral-Research/tree/master/differential_testing/pcmac_csmith/save_data/
+  - Result of differential testing at maxwell: https://github.com/mdrafiqulrabin/Doctoral-Research/tree/master/differential_testing/maxwell_csmith/save_data/
+
+06. Include the names and summaries of papers you read.  
+
+  - Paper-01: Compiler Fuzzing through Deep Learning: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Spring-2019/20190115_rabin.txt
+  - Paper-02: A Snowballing Literature Study on Test Amplification: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Spring-2019/20190116_rabin.txt
+  - Paper-03: Evaluating Fuzz Testing: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Spring-2019/20190117_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+09. Obstacles in you research and you plan to overcome them? 
+
+10. Are you on track to be a productive researcher? 
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Sabine:
+    1st run: Create c programs by Csmith and execute with gcc 4.8.2 -O3 for 6 hours.
+    2nd run: Execute c programs generated in 1st run with gcc 4.8.2 -O0 and comapre result with -O3.
+  - DeepSmith:
+    Clone from Github and try to run and check.
+    Then check how to use c files of linux kernel for DeepSmith modeling.
+
+12. Any skill that you want to practice?
+
+  - Basic R script
+  - LaTex writing
