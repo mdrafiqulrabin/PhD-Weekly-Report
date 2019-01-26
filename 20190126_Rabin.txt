@@ -12,11 +12,11 @@ In the past week:
     - Study about Graphical and Numerical Descriptive Statistics.
     - Learn about basic R on Statistics: ..., Vectors, Data Frame and Boxplot.
   - [COSC 6385 - Computer Architecture]:
-    - Attend to both class lectures.
+    - Attend to the classes.
     - Study about Instruction Set Architecture topic.
     - Search for security/smartphone related paper(s) in ASPLOS '15-'18.
   - [COSC 4315/6345 - Programming Languages]:
-    - Attend to both class lectures and TA hours.
+    - Attend to the classes and TA hours.
     - Study about Phases of Compilers.
   - [Others]:
     - Attend to COSC Teaching Assistant Training.
@@ -30,9 +30,9 @@ In the past week:
 
 03. Papers that you worked on (writing/editing)?  Please add links to the paper 
 
-  - Result of differential testing in Maxwell and Sabine: 
-    result.tex (table-2): Optimization levels testing with GCC(4.8.2) in Maxwell.
-    result.tex (table-3): Optimization levels testing with GCC(4.8.2) between -O0 and -O3 in Sabine.
+    Adding result of differential testing in Maxwell and Sabine: 
+      - result.tex (table-2): Optimization levels testing with GCC(4.8.2) in Maxwell.
+      - result.tex (table-3): Optimization levels testing with GCC(4.8.2) between -O0 and -O3 in Sabine.
     Link: https://www.overleaf.com/9713562856nbbcwgbqnhvz
 
 04. Code you developed. Add links to the GitHub or Bitbucket repo. 
