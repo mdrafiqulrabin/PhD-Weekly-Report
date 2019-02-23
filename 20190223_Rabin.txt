@@ -1,0 +1,85 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - [COSC 8398 - Doctoral Research]
+    - DeepSmith:
+      - Fix package dependencies.
+      - Fix proto dependencies.
+      - Fix SyntaxError, ImportError, ModuleNotFoundError.
+    - Linear Digressions: K Nearest Neighbors.
+    - Read 2 papers and write summaries.
+  - [COSC 6323 - Statistical Methods]:
+    - Study about Hypothesis Testing for two population.
+    - HW2 and Project(Fig 3).
+  - [COSC 6385 - Computer Architecture]:
+    - Quiz-2: Branch Prediction and Out Order Execution.
+
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+  Computer Science Seminar: Fast Packet Processing with eBPF and XDP 
+  Link: http://www.uh.edu/nsm/computer-science/news-events/seminars/2019/0218-vieira.php
+
+  Focus on Research:
+  Link: http://www.uh.edu/nsm/computer-science/news-events/seminars/2019/0220-dai-feki-fathi-aigbe.php
+
+  Presentation: Development of Intelligent Digital Certificate Fuzzer Tool
+  Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Presentation/20190222_Rabin.pptx
+
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    N/A
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+  [ No coding but Check some Code Resource]
+  
+  Create and Access a Python Package:
+  Link: https://www.geeksforgeeks.org/create-access-python-package/
+  
+  Protobuffs import from another directory:
+  Link: https://stackoverflow.com/questions/21159451/protobuffs-import-from-another-directory
+       
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    Document for ongoing DeepSmith setup:
+    Link: https://github.com/mdrafiqulrabin/forkdeepsmith/blob/master/logs/dependencies.xlsx
+    
+06. Include the names and summaries of papers you read.  
+
+    - Paper-01: Detecting Information Flow by Mutating Input Data
+      Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Spring-2019/20190218_rabin.txt
+    - Paper-02: Active Learning of Input Grammars
+      Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Spring-2019/20190222_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+  - Searching google in case of any difficulties. 
+  - Knocking professor for guideline when getting stuck.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  - Nothing noticeable out of the ordinary.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  - Deepsmith: ERROR at setup of ... [sqlite_memory]
+
+10. Are you on track to be a productive researcher? 
+
+  - Contribute in stackoverflow for android chrome custom tabs.
+  - Attend seminars and research talk on time.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Final try with the setup of DeepSmith.
+  - Understanding LSTM and its implementation in Keras.
+  - Programming assignment: Branch Prediction [COSC 6385 - Computer Architecture].
+  - Project (Draw Fig.2(a-b), S(1-3)) [COSC 6323 - Statistical Methods].
+  - Attend to all class course and ta hours.
+
+12. Any skill that you want to practice?
+
+  - Gephi visualization
