@@ -6,7 +6,6 @@ In the past week:
     - Study about Distance Matrix with mutant vectors.
     - Done with C based compiler testing papers' classification.
   - [COSC 6385 - Computer Architecture]
-    - Presentation on Static Detection of Event-based Races. 
     - Quiz 3 on memory and cache.
   - [COSC 6323 - Statistical Methods]
     - Work on project phase-II.
@@ -33,8 +32,8 @@ In the past week:
     
 06. Include the names and summaries of papers you read.  
 
-    - Paper-01: Causal Distance-Metric-Based Assistance for Debugging After Compiler Fuzzing
-      Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Spring-2019/20190325_rabin.txt
+  - Paper-01: Causal Distance-Metric-Based Assistance for Debugging After Compiler Fuzzing
+    Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Spring-2019/20190325_rabin.txt
 
 07. Did you seek help when you needed that? 
 
@@ -42,7 +41,7 @@ In the past week:
 
 08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
 
-  N/A for this week. 
+  Writting paper summary by own words.
 
 09. Obstacles in you research and you plan to overcome them? 
 
