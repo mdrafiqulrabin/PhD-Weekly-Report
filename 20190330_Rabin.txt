@@ -1,0 +1,76 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - [COSC 8398 - Doctoral Research] 
+    - Study about Distance Matrix with mutant vectors.
+    - Done with C based compiler testing papers' classification.
+  - [COSC 6385 - Computer Architecture]
+    - Presentation on Static Detection of Event-based Races. 
+    - Quiz 3 on memory and cache.
+  - [COSC 6323 - Statistical Methods]
+    - Work on project phase-II.
+  - [COSC 4315/6345 - Programming Languages]
+    - HW2 plagiarism checking.
+
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+  Read the article 'Multi-Version Execution Defeats a Compiler-Bug-Based Backdoor':
+  Link: https://blog.regehr.org/archives/1282
+
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    N/A for this week. 
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+  CV network linear model:
+  Link: https://github.com/mdrafiqulrabin/sm-xd-evolution/blob/master/FigT2.R
+       
+05. Analysis that you performed. Include link to the dataset and results.  
+
+  N/A for this week. 
+    
+06. Include the names and summaries of papers you read.  
+
+    - Paper-01: Causal Distance-Metric-Based Assistance for Debugging After Compiler Fuzzing
+      Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Spring-2019/20190325_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+  - Ask professor about difficulties of Distance-Metric paper.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  N/A for this week. 
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Nothing visible.
+
+10. Are you on track to be a productive researcher? 
+
+  Not in this week for following reasons:
+    - Read only one paper this week.
+    - Paper summary was not based on own words.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - [COSC 8398 - Doctoral Research] 
+    - Classify Java and JavaScript compiler testing related papers.
+    - Check Android state-of-the-art testing tools.
+    - Check Kotlin: open source project, library, test framework. 
+    - Must Read Paper: Machine Learning Applied to Software Testing.
+  - [COSC 6385 - Computer Architecture]
+    - Programming Assignment 2: Demonstrate meltdown attack from github code.
+  - [COSC 6323 - Statistical Methods]
+    - Study about Dummy Variable Factor Effect.
+    - Turn in project phase-II.
+  - Attend to the classes, seminars, and ta hours.
+
+12. Any skill that you want to practice?
+
+  - Color plot in R and table in latex.
+  
