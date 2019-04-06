@@ -1,0 +1,74 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - [COSC 8398 - Doctoral Research] 
+    - Done with Java/JavaScript based compiler testing papers'.
+    - Started list down the overall Android tools.
+  - [COSC 6385 - Computer Architecture]
+    - Submit meltdown attack assignment.
+  - [COSC 6323 - Statistical Methods]
+    - Submit project phase-II.
+  - [COSC 4315/6345 - Programming Languages]
+    - pysmt environment setup
+
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+  Presentation: Static Detection of Event-based Races in Android Apps
+  Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Presentation/20190405_Rabin.pptx
+
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    N/A for this week. 
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+  Std Error Fig4: https://github.com/mdrafiqulrabin/sm-xd-evolution/blob/master/Fig4.R
+       
+05. Analysis that you performed. Include link to the dataset and results.  
+
+  N/A for this week. 
+    
+06. Include the names and summaries of papers you read.  
+
+  - Read abstract of more than 100 paper to select the Android tools. 
+    
+  - Paper-01: Static Detection of Event-based Races in Android Apps
+    Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Spring-2019/20190320_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+  Yes.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  Writting paper summary by own words.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Nothing visible.
+
+10. Are you on track to be a productive researcher? 
+
+  Seems good.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - [COSC 8398 - Doctoral Research] 
+    - Must Read Paper: Automated Testing of Refactoring Engines.
+    - Classify the Servey Data.
+    - Start writting the KNN project.
+  - [COSC 6385 - Computer Architecture]
+    - Get familiar with CUDA platform.
+  - [COSC 6323 - Statistical Methods]
+    - Study about Categorical Data.
+    - Submit the HW3.
+  - [COSC 4315/6345 - Programming Languages]
+    - Demos and Grading for HW2.
+
+12. Any skill that you want to practice?
+
+  - CUDA platform.
+  
