@@ -14,6 +14,9 @@ In the past week:
 
 02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
 
+  Read Article: Meltdown and Spectre, explained
+  Link: https://medium.com/@mattklein123/meltdown-spectre-explained-6bc8634cc0c2
+  
   Presentation: Static Detection of Event-based Races in Android Apps
   Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Presentation/20190405_Rabin.pptx
 
@@ -27,14 +30,18 @@ In the past week:
        
 05. Analysis that you performed. Include link to the dataset and results.  
 
-  N/A for this week. 
+  Reproduce metldown demos from https://github.com/IAIK/meltdown:
+  Link: https://github.com/mdrafiqulrabin/UH/tree/master/19S-COSC6385-CA/Assignment2/results
     
 06. Include the names and summaries of papers you read.  
 
-  - Read abstract of more than 100 paper to select the Android tools. 
+  - Read abstract of more than 100 paper:
+    - Java compiler testing.
+    - JavaScript interpreter testing.
+    - Android testing tools. 
     
-  - Paper-01: Static Detection of Event-based Races in Android Apps
-    Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Spring-2019/20190320_rabin.txt
+  - Presentation: Static Detection of Event-based Races in Android Apps
+    Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Presentation/20190405_Rabin.pptx
 
 07. Did you seek help when you needed that? 
 
