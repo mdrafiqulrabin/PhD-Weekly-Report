@@ -1,0 +1,71 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - [COSC 8398 - Doctoral Research] 
+    - Read about Refactoring Engine testing.
+    - Gcov line coverage of gcc for failing tc.
+    - Install Grcov and Rust.
+  - [COSC 6385 - Computer Architecture]
+    - Submit the HW3 on meltdown reproduce.
+  - [COSC 6323 - Statistical Methods]
+    - Submit the HW4 on Dummy ANOVA.
+  - [COSC 4315/6345 - Programming Languages]
+    - Demos and Grading for HW2.
+
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    Read Article: Using Gcov for Coverage Analysis
+    Link: http://www.drdobbs.com/code-coverage-for-c-unit-tests/184401989
+
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - Classify survey paper 
+    - Related works of CSmith
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    gcov_coverage (v5/tout10/r1/gcc482/swarm/wc): 
+    https://github.com/mdrafiqulrabin/Doctoral-Research/blob/master/differential_testing/sabine_csmith/scripts/v5/gcov/gcov_coverage.py
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    gcov_coverage (v5/tout10/r1/gcc482/swarm/wc): 
+    https://github.com/mdrafiqulrabin/Doctoral-Research/tree/master/differential_testing/sabine_csmith/results/v5/tout10/r1/gcc482/swarm/save_tc/gcov
+    
+06. Include the names and summaries of papers you read.  
+
+  - Automated Testing of Refactoring Engines
+    Link: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Spring-2019/20190408_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+  Yes.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  By managing task in time.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Nothing visible.
+
+10. Are you on track to be a productive researcher? 
+
+  Seems good.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - [COSC 8398 - Doctoral Research] 
+    - Add the Survey paper in Overleaf.
+    - Related works of CSmith in Overleaf.
+    - Think about test case line Ranking.
+  - [COSC 4315/6345 - Programming Languages]
+    - Grading for HW3.
+
+12. Any skill that you want to practice?
+
+  - Basic Haskell programming.
+  
