@@ -1,0 +1,65 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - [COSC 8398 - Doctoral Research]: Technique and Evaluation of kmeans paper.
+  - [COSC 6323 - Statistical Methods]: Learn about Time series.
+  - [COSC 6385 - Computer Architecture: Learn about vector scheduling.
+  - [TA] [COSC 4315/6345 - Programming Languages]: Grading for Quiz3 (Q1b,Q1c and Project) and uploading mark into BB.
+
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    Writing kmeans paper: https://www.overleaf.com/9713562856nbbcwgbqnhvz
+
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - Kmeans paper: https://www.overleaf.com/9713562856nbbcwgbqnhvz
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    [Course Project] Calculate z-score of citations and career age of publication.
+    Link: https://github.com/mdrafiqulrabin/sm-xd-evolution/tree/master/Data/Panel_Analysis
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    [Course Project] Calculate z-score of citations and career age of publication.
+    Link: https://github.com/mdrafiqulrabin/sm-xd-evolution/tree/master/Data/Panel_Analysis
+    
+06. Include the names and summaries of papers you read.  
+
+    Read and check the structure of Technique and Evaluation of some fuzzing related papers to enhance the kmeans paper writing.
+
+07. Did you seek help when you needed that? 
+
+  Yes.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  By managing task in time.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Nothing visible.
+
+10. Are you on track to be a productive researcher? 
+
+  Seems good.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - [COSC 8398 - Doctoral Research] 
+    - Check c programs of metrics paper with gcc 4.3.0
+  - [COSC 6323 - Statistical Methods]
+    - HW5 submission
+    - HW(optional) submission
+    - Project final submission
+  - [COSC 6385 - Computer Architecture]
+    - Final quiz on vector scheduling
+    - Programming assignment on Kmeans by CUDA
+
+12. Any skill that you want to practice?
+
+  - Nothing, Have to submit many course work.
+  
