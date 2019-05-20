@@ -1,0 +1,56 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - ASE 2019 Submission: k-config paper
+  - Embedding survey paper
+
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    k-config paper: https://www.overleaf.com/9713562856nbbcwgbqnhvz
+
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    k-config paper: https://www.overleaf.com/9713562856nbbcwgbqnhvz
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    N/A
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    N/A
+    
+06. Include the names and summaries of papers you read.  
+
+    Paper: A LITERATURE STUDY OF EMBEDDINGS ON SOURCE CODE
+    Link of summary: N/A
+
+07. Did you seek help when you needed that? 
+
+  Always.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  By managing task in time.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Nothing visible.
+
+10. Are you on track to be a productive researcher? 
+
+  Seems good.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Full pass of k-config paper
+  - Study paper: Learning to Represent Programs with Graphs
+  - Check microsoft data: https://www.microsoft.com/en-us/download/details.aspx?id=56844
+
+12. Any skill that you want to practice?
+
+  - Basic C#
+  
