@@ -1,0 +1,63 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - Basic C# Programming Syntax
+  - Command line execution of C# program
+  - Study the Microsoft research dataset
+
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    Introduction to deep learning
+    Link: https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
+
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    N/A
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    Download github repo from url with wget.
+    Link: /project/alipour/rabin/TNP/data/project25/download_repo.py
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    Study the Microsoft research dataset
+    Link: https://trello.com/c/SPuWlJTc/5-study-the-microsoft-research-dataset
+    
+06. Include the names and summaries of papers you read.  
+
+    Paper: A Literature Study of Embeddings on Source Code
+    Summary: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190516_rabin.txt
+    
+    Learning to Represent Programs with Graphs
+    Summary: https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190520_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+  Always.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  By managing task in time.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Nothing visible.
+
+10. Are you on track to be a productive researcher? 
+
+  Seems good.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - ICSE 2019 Workshop participation
+  - Generate AST from C# program
+  - Study TreeLSTM model
+
+12. Any skill that you want to practice?
+
+  - Communication
+  
