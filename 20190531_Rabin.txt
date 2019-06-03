@@ -1,0 +1,71 @@
+Attending ICSE 2019
+Link: https://conf.researchr.org/home/icse-2019
+
+[ 27-May-2019 ] AST & IoT
+
+Keynote (AST): Software Metrics Artifacts to make Web Quality Measurable by Andrès L. Martìnez-Ortìz (at Google Switzerland)
+Keynote (IoT): Empowering humanity through robotic solutions by Mathieux Bergeron	(at Kinova Robotics)
+
+1st session: IoT
+  1. Users Issues in using the Internet of Things Systems
+  2. Landscape of IoT Patterns
+  3. Cost Efficient Automated Pisciculture Assistance System using Internet of things (IoT)
+
+2nd session: AST
+  1. Fully Automated Compiler Testing of a Reasoning Engine via Mutated Grammar Fuzzing
+  2. Automating GUI Response Time Measurements in Mobile and Web Applications
+  3. Towards a Method for Automated Testing in Robotic Process Automation Projects
+
+3rd session: Poster
+  1. A methodology for Using GitLab for Software Engineering Learning Analytics
+  2. Sentiment Analysis of Male and Female Developer Comments
+  3. Activity Based Analysis of Open Source Software Contributors: Roles and Dynamics
+
+
+[ 28-May-2019 ] DeepTest
+
+Keynote1: Neural Fuzzing by Rishabh Singh (at Google Brain)
+Keynote2: Analyzing AI Model Internals for Debugging and Adversarial Sample Attack Detection by Xiangyu Zhang (at Purdue University)
+
+1st session: Multimorphic Testing, Robustness Testing
+  1. Applying Multimorphic Testing to Deep Learning Systems
+  2. Robustness Testing of Deep Neural Networks
+
+2nd session: Adversarial Machine Learning, Deep Sequence, Visual Invariances
+  1. Testing of Deep Learning based classfiers: The Need, Challenges & Current Directions
+  2. Customizing Adversarial Machine Learning to test Deep Learning techniques
+  3. Checking Probabilistic Properties of Neural Networks via Symbolic Methods and Sampling
+  4. Deep Sequence Learning for Software Testing
+  5. Large-Scale Exhaustive Testing of Visual Invariances
+  6. Perspectives in Testing Deep RL
+
+3rd session: Bayesian Statistics and Property Inference
+  1. Towards Continuous Evaluation for Deep Learning
+  2. Efficient Verifiably Robust Training of Neural Networks
+  3. A Framework for Online Testing of Deep Neural Networks using Bayesian Statistics and Active Learning
+  4. Property Inference for Neural Networks
+
+Nercomers Reception (Pavilion E, ETS)
+  1. Software Testing
+  2. Programming Languages and Development Tools
+  3. Emperical Software Engineering
+  
+[ 29-May-2019 ] Testing Effectiveness & Test Generation
+
+Keynote: 
+Managing Variation: An Industrial Perspective on Product Line Engineering by Paul Clements (at BigLever Software, Inc.)
+
+1st session: Testing Effectiveness
+  1. Practitioners' Views on Good Software Testing Practices
+  2. Perception and Practices of Differential Testing
+  3. An interleaving approach to combinatorial testing and failure-inducing interaction identification
+  4. An Empirical Comparison of Combinatorial Testing, Random Testing and Adaptive Random Testing
+  5. Assurances in Software Testing: A Roadmap
+  6. Automatic Test Improvement with DSpot: a Study with Ten Mature Open-Source Projects
+
+2nd session: Test Generation
+  1. Concolic Testing for High Test Coverage and Reduced Human Effort in Automotive Industry
+  2. AsFault: Testing Self-Driving Car Software Using Search-based Procedural Content Generation
+  3. AC3R: Automatically Reconstructing Car Crashes from Police Reports
+  4. Automatically Generating Precise Oracles from Structured Natural Language Specifications
+
