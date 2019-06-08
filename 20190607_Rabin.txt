@@ -8,9 +8,9 @@ In the past week:
 
 02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
 
-    Cosine Similarity: https://www.machinelearningplus.com/nlp/cosine-similarity/
-    Vector Representations of Words: https://israelg99.github.io/2017-03-22-Vector-Representations-of-Words/
-    Introduction to SysML: https://trello.com/c/GXGzEZBW/1-introduction-to-sysml
+  - Cosine Similarity: https://www.machinelearningplus.com/nlp/cosine-similarity/
+  - Vector Representations of Words: https://israelg99.github.io/2017-03-22-Vector-Representations-of-Words/
+  - Introduction to SysML: https://trello.com/c/GXGzEZBW/1-introduction-to-sysml
 
 03. Papers that you worked on (writing/editing)?  Please add links to the paper 
 
@@ -55,7 +55,7 @@ Plan for the next week:
   - Apply COSET Transformation on Sample Programs.
   - Study the json data provided by Ke and Train the model.
   - Summer session: Machine learning and Cluster Computing.
-  - Coursera: Introduction to Deep Learning
+  - Coursera: Logistic Regression as a Neural Network(1/4)
 
 12. Any skill that you want to practice?
 
