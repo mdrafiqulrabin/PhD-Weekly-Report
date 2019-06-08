@@ -1,0 +1,62 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - Build the Ke C# Parser
+  - Generate AST from C# program (Roslyn API)
+  - Coursera: Introduction to Deep Learning
+
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    Cosine Similarity: https://www.machinelearningplus.com/nlp/cosine-similarity/
+    Vector Representations of Words: https://israelg99.github.io/2017-03-22-Vector-Representations-of-Words/
+    Introduction to SysML: https://trello.com/c/GXGzEZBW/1-introduction-to-sysml
+
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    N/A
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    N/A
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    AST with Roslyn API: https://trello.com/c/lAglHM2Y/7-generate-ast-from-c-program-roslyn-api
+    
+06. Include the names and summaries of papers you read.  
+
+    Fully Automated Compiler Testing of a Reasoning Engine via Mutated Grammar Fuzzing
+    https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190527_rabin.txt
+
+    COSET: A Benchmark for Evaluating Neural Program Embeddings
+    https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190603_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+  of course: by email or by chat.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  Doing a task (Generating AST with Roslyn API).
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Generating AST with Ke C# Parser (right now paused as we will get the required json data).
+
+10. Are you on track to be a productive researcher? 
+
+  by all means!
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Apply COSET Transformation on Sample Programs.
+  - Study the json data provided by Ke and Train the model.
+  - Summer session: Machine learning and Cluster Computing.
+  - Coursera: Introduction to Deep Learning
+
+12. Any skill that you want to practice?
+
+  - COSET Transformation.
