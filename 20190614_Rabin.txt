@@ -1,0 +1,70 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  [Research]
+  - How to load the NN models from tf checkpoint [https://trello.com/c/gA7R1WRa/17-load-the-nn-models-from-tf-checkpoint]
+  - Run the code2vec tool (GitHub) [https://trello.com/c/wdEXXsjt/20-run-the-code2vec-tool-github]
+  - Preprocess java files with code2vec JavaExtractor [https://trello.com/c/xO1Kly8T/9-preprocess-java-files-with-code2vec-javaextractor]
+  - Test code2vec with demo java files [https://trello.com/c/W1pmFGxX/21-test-code2vec-with-demo-java-files]
+  - Transformation strategy on the code2vec demo java files [https://trello.com/c/vHReCYmy/8-transformation-strategy-on-the-code2vec-demo-java-files]
+  
+  [Course]
+  - Cluster Computing: Introduction to HPC and Bash Shell
+  - Machine Learning: Application of Machine learning
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+  - Introduction to Deep Learning [https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1]
+  - Logistic Regression as a Neural Network [https://www.coursera.org/learn/neural-networks-deep-learning/home/week/2]
+
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    N/A
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - preprocess_java.sh [https://github.com/mdrafiqulrabin/fork-code2vec/blob/master/preprocess_java.sh]
+    - code2vec_java.sh [https://github.com/mdrafiqulrabin/fork-code2vec/blob/master/code2vec_java.sh]
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    - Demo .java & .c2v files [https://github.com/mdrafiqulrabin/fork-code2vec/tree/master/data_java/demo11]
+    
+06. Include the names and summaries of papers you read.  
+
+    code2vec: learning distributed representations of code
+    https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190613_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+  of course: by email or by chat, i.e. AST to JSON issue, GPU issue in sabine HPC cluster, etc.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  By running the code2vec tool.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Script is not executing in sabine HPC cluster for not getting gpu based compute node.
+
+10. Are you on track to be a productive researcher? 
+
+  Hope so.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  [Research]
+  - Learning Distributed Representations of Code : code2vec
+  - Transformation strategy on the code2vec demo java files
+  
+  [Course]
+  - Summer CACDS: Machine Learning and Cluster Computing.
+  - Coursera: Python & Vectorization(2/4)
+
+12. Any skill that you want to practice?
+
+  - Bash Shell, Transformation.
+  
