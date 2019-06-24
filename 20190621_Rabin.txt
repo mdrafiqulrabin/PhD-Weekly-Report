@@ -1,0 +1,70 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  [Research]
+  - code2vec: Learning Distributed Representations of Code [https://trello.com/c/KcbfaHka/19-code2vec-learning-distributed-representations-of-code]
+  - code2seq: Generating Sequences from Structured Representations of Code [https://trello.com/c/XHvZebxi/22-code2seq-generating-sequences-from-structured-representations-of-code]
+  
+  [Course]
+  - Cluster Computing: Vim editor and Shell scripting.
+  - Machine Learning: Principal Components Analysis.
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+  - tf (term-frequency) [http://blog.christianperone.com/2011/09/machine-learning-text-feature-extraction-tf-idf-part-i/]
+  - idf (inverse document frequency)  [http://blog.christianperone.com/2011/10/machine-learning-text-feature-extraction-tf-idf-part-ii/]
+
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    N/A
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    N/A
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    - Online code2vec demo [https://code2vec.org/]
+    
+06. Include the names and summaries of papers you read.  
+
+    code2vec: learning distributed representations of code
+    https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190613_rabin.txt
+    
+    code2seq: Generating Sequences from Structured Representations of Code
+    https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190618_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+  Nothing in this week.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  Code to apply the transform.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Script is not executing in sabine HPC cluster for not getting gpu based compute node.
+
+10. Are you on track to be a productive researcher? 
+
+  Hope so.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  [Research]
+  - Tree Traversal of Java Parser with Visitor
+  - Code to transform the variable renaming
+  - Related work paper study
+  
+  [Course]
+  - Summer CACDS: Machine Learning and Cluster Computing.
+  - Coursera: Python & Vectorization(2/4)
+
+12. Any skill that you want to practice?
+
+  - Bash Shell, Transformation.
+  
