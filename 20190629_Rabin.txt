@@ -1,0 +1,68 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  [Research]
+  - Code Study of JavaExtractor: https://trello.com/c/OcDRnhQr/26-source-code-study-of-javaextractor
+  - Tree Traversal with Java Parser Visitor: https://trello.com/c/suRWA2P2/28-tree-traversal-of-java-parser-with-visitor
+  - Code to transform: Variable Renaming and Boolean Exchange
+  
+  [Course]
+  - Cluster Computing: SLURM & Bash script.
+  - Machine Learning: Image Classification with KMeans and PCA.
+  - Coursera: Python & Vectorization [2/4].
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+  - Inspecting an AST: https://javaparser.org/inspecting-an-ast/
+  - Analyzing Java Code programmatically: https://tomassetti.me/getting-started-with-javaparser-analyzing-java-code-programmatically/
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    N/A
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - Code to transform the variable renaming: https://github.com/mdrafiqulrabin/JavaTransformer/blob/master/src/main/java/VariableRenaming.java
+    - Code to transform the boolean exchange: https://trello.com/c/ZAAA1Vxz/29-code-to-transform-the-boolean-exchange
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    - Online code2vec demo [https://code2vec.org/]
+    
+06. Include the names and summaries of papers you read.  
+
+    N/A
+
+07. Did you seek help when you needed that? 
+
+  Nothing in this week.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  Performed two (variable renaming and boolean exchange) transformation.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Node insertion or update in tree of java parser.
+
+10. Are you on track to be a productive researcher? 
+
+  Hope so.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  [Research]
+  - Spoon tool for transformation (variable renaming or boolean exchange)
+  - Code to transform the loop exchange (i.e. while to for)
+  
+  [Course]
+  - Summer CACDS Quiz: Cluster Computing.
+  - Coursera: Python & Vectorization [3/4]
+
+12. Any skill that you want to practice?
+
+  - SLRUM, Spoon Transformation.
+  
