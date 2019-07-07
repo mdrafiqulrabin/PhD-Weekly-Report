@@ -2,12 +2,13 @@ In the past week:
 
 01. Objectives for the week 
 
-  - Run transformations (VR & BE) on data and observe the results
-    https://trello.com/c/xDM3zCwa/31-run-transformations-vr-be-on-data-and-observe-the-results
+  - Run transformations (VR & BE) on all java files
+    https://trello.com/c/xDM3zCwa/31-run-transformations-vr-be-on-all-java-files
+  - HPC Quiz and Job Scheduling Task.
   
 02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
 
-  - Spoon tool analysis (but build issue)
+  - Spoon tool analysis (but having build issue)
   
 03. Papers that you worked on (writing/editing)?  Please add links to the paper 
 
