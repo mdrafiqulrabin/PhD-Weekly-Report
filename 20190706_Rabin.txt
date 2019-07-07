@@ -1,0 +1,64 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - Run transformations (VR & BE) on data and observe the results
+    https://trello.com/c/xDM3zCwa/31-run-transformations-vr-be-on-data-and-observe-the-results
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+  - Spoon tool analysis
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    N/A
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - Code to apply transformation on all: https://github.com/mdrafiqulrabin/JavaTransformer/tree/master/src/main/java
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    - Code to apply transformation on all: https://github.com/mdrafiqulrabin/JavaTransformer/tree/master/src/main/java
+    
+06. Include the names and summaries of papers you read.  
+
+    1. DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars
+      https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190703_rabin.txt
+      
+    2. The Adverse Effects of Code Duplication in Machine Learning Models of Code
+      https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190705_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+  Nothing in this week.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  By reading more online materials.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  - Build issue in Spoon tool.
+  - Priority issue in sabine job.
+
+10. Are you on track to be a productive researcher? 
+
+  Hope so.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  [Research]
+  - Observe the results after transformation
+  - Spoon tool for transformation
+  
+  [Course]
+  - ML Final Quiz.
+  - ML Classification Task.
+
+12. Any skill that you want to practice?
+
+  - Sklearn classification models, Spoon again.
+  
