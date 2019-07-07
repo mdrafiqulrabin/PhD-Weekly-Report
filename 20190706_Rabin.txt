@@ -7,7 +7,7 @@ In the past week:
   
 02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
 
-  - Spoon tool analysis
+  - Spoon tool analysis (but build issue)
   
 03. Papers that you worked on (writing/editing)?  Please add links to the paper 
 
