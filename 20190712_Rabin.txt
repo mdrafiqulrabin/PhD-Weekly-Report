@@ -1,0 +1,68 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - Transformation: for/while <-> while/for
+  - Transformation: Switch -> If-Else
+  - Observe the transformation on demo java files
+  - HPC HW and Quiz
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+  - Deep Adversarial Learning for NLP (https://www.aclweb.org/anthology/N19-5001)
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+  - Testing neural program (https://www.overleaf.com/project/5d263a59cf7d6d362d573c73)
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - LoopExchange: https://github.com/mdrafiqulrabin/JavaTransformer/blob/master/src/main/java/LoopExchange.java
+    - SwitchTransform: https://github.com/mdrafiqulrabin/JavaTransformer/blob/master/src/main/java/SwitchConditional.java
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    - N/A
+    
+06. Include the names and summaries of papers you read.  
+
+    1. Understanding Importance of Verbs in Deep Learning QA System
+       https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190711_rabin.txt
+      
+    2. Identifying Similar Code with Program Dependence Graphs
+       https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190712_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+    Not applicable in this week.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  By reading more online materials.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Not applicable in this week.
+
+10. Are you on track to be a productive researcher? 
+
+  Could not able to work with spoon tool for build issue.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  [Research]
+  - Introduction
+  - Related works
+  - Motivating example
+  - Methodology
+  
+  [Course]
+  - ML CNN Task.
+  - ML Final Quiz.
+
+12. Any skill that you want to practice?
+
+  -  Nothing in next week
+  
