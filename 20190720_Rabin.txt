@@ -1,0 +1,54 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - ML HW and Quiz
+  - ASE Short Paper
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - Short article about KNN, DT, RF, SVN, CNN models.
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+  - Testing neural program (https://www.overleaf.com/project/5d263a59cf7d6d362d573c73)
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    Only code for HW.
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    Only for Quiz.
+    
+06. Include the names and summaries of papers you read.  
+
+    DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems
+    https://github.com/mdrafiqulrabin/Paper-Summary/blob/master/Summer-2019/20190715_rabin.txt
+
+07. Did you seek help when you needed that? 
+
+    Not applicable in this week.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+  By reading more related works.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+  Not face anything in this week.
+
+10. Are you on track to be a productive researcher? 
+
+  Seems okay in this week.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - ASE Short Paper
+
+12. Any skill that you want to practice?
+
+  N/A
+  
