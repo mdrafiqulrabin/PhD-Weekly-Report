@@ -7,7 +7,7 @@ In the past week:
   
 02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
 
-    - Short article about KNN, DT, RF, SVN, CNN models.
+    - Short article about KNN, KMeans, LDA, DT, RF, SVM, and CNN models.
   
 03. Papers that you worked on (writing/editing)?  Please add links to the paper 
 
@@ -15,7 +15,7 @@ In the past week:
 
 04. Code you developed. Add links to the GitHub or Bitbucket repo. 
 
-    Only code for HW.
+    Only for HW.
     
 05. Analysis that you performed. Include link to the dataset and results.  
 
@@ -32,15 +32,15 @@ In the past week:
 
 08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
 
-  By reading more related works.
+    By reading more related works.
 
 09. Obstacles in you research and you plan to overcome them? 
 
-  Not face anything in this week.
+    Not face anything in this week.
 
 10. Are you on track to be a productive researcher? 
 
-  Seems okay in this week.
+    Seems okay in this week.
 
 Plan for the next week: 
 
