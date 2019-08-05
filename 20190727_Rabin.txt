@@ -3,10 +3,11 @@ In the past week:
 01. Objectives for the week 
 
   - ASE Short Paper Submission
+  - Build GGNN Tool
   
 02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
 
-    Nothing in this week for short paper submission.
+    Play with GGNN: https://github.com/Microsoft/gated-graph-neural-network-samples
   
 03. Papers that you worked on (writing/editing)?  Please add links to the paper 
 
@@ -14,11 +15,11 @@ In the past week:
 
 04. Code you developed. Add links to the GitHub or Bitbucket repo. 
 
-    Nothing in this week for short paper submission.
+    - Script for GGNN at /project/alipour/rabin/TNP/tool/GGNN/*.sh
     
 05. Analysis that you performed. Include link to the dataset and results.  
 
-    Nothing in this week for short paper submission.
+    - Error for GGNN at /project/alipour/rabin/TNP/tool/GGNN/*.txt
     
 06. Include the names and summaries of papers you read.  
 
@@ -27,7 +28,7 @@ In the past week:
 
 07. Did you seek help when you needed that? 
 
-    Of course, always inform when needs.
+    I got issues with GGNN and reported to Dr. Amin.
 
 08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
 
@@ -35,19 +36,20 @@ In the past week:
 
 09. Obstacles in you research and you plan to overcome them? 
 
-    Nothing in this week.
+    Got issues with GGNN and will re-look again, otherwise should email to authors.
 
 10. Are you on track to be a productive researcher? 
 
-    I think okay.
+    I am okay with this.
 
 Plan for the next week: 
 
 11. Next week’s objectives (be as specific as possible)
 
-  - Build GGNN Tool
+  - Transformation: permuting the order of statements
+  - Transformation with C# Parser
 
 12. Any skill that you want to practice?
 
-  N/A
+  dotnet/roslyn (https://github.com/dotnet/roslyn)
   
