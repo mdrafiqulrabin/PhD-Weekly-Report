@@ -1,0 +1,59 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - Extract Single Method from Java file
+  - ASE 2019 Submission Reviews
+  - Investigate Proguard for Dead Code
+  - Call graph analysis to identify methods that are not used
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+  - Investigate ProGuard: https://www.guardsquare.com/en/products/proguard/manual
+  - Investigate Ant: https://ant.apache.org/manual/index.html
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+  - ASE 2019 Reviews: https://trello.com/c/RnotU8Me/28-ase-2019-reviews
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - MethodExtractor: https://github.com/mdrafiqulrabin/JavaTransformer/blob/master/src/main/java/MethodExtractor.java
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    - Call graph analysis with Proguard & Ant: https://trello.com/c/qF9sU1nn/9-call-graph-analysis-to-identify-methods-that-are-not-used
+    
+06. Include the names and summaries of papers you read.  
+
+    - Trick Me If You Can: Human-in-the-loop Generation of Adversarial Examples for Question Answering
+    - Discrete Adversarial Attacks and Submodular Optimization with Applications to Text Classification
+
+07. Did you seek help when you needed that? 
+  
+    Not applicable for this week.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Being more proactive and innovative.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+    The GGNN should be re-looked.
+
+10. Are you on track to be a productive researcher? 
+
+    Yeah, absolutely.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Check if a private method is not used in the same Java class
+  - Extract Single Method from C# file
+  - Build GGNN Tool
+
+12. Any skill that you want to practice?
+
+  - ProGuard, Ant, GGNN
+  
