@@ -1,0 +1,62 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Setup and Run the invariant validation model
+    - Create JAR with dependencies or build file
+    - Run java program into HPC with bash script
+    - C to AST using Clang
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - Maven jar with dependencies (https://maven.apache.org/plugins/maven-assembly-plugin/usage.html)
+    - Ant jar with build file (https://ant.apache.org/manual/tutorial-HelloWorldWithAnt.html)
+    - Understanding the Clang AST: https://jonasdevlieghere.com/understanding-the-clang-ast/
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - ASE 2019 Reviews: https://trello.com/c/RnotU8Me/28-ase-2019-reviews
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - create jar: https://trello.com/c/4k2oQjaC/2-create-jar-file-in-intellij-idea
+    - run java in HPC: https://trello.com/c/owriyrkI/3-run-java-program-with-bash-script
+    - c to ast: https://trello.com/c/S76sB08i/31-c-to-ast-using-clang
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    - Build invariant validation model: https://trello.com/c/5cZOwFB3/43-build-the-invariant-validation-model
+    
+06. Include the names and summaries of papers you read.  
+
+    - Semantically Equivalent Adversarial Rules for Debugging NLP models
+    - Are My Invariants Valid? A Learning Approach
+
+07. Did you seek help when you needed that? 
+  
+    Not applicable for this week.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Being more proactive and innovative.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+    Clang could run on more C programs but the generated AST seems more obscured.
+
+10. Are you on track to be a productive researcher? 
+
+    Think so.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Use Clang AST generator instead of pycparser
+  - Generalize arguments on new clang-generated AST
+  - Apply K-Means to get new set of centroid
+
+12. Any skill that you want to practice?
+
+  - Clang-AST, K-CONFIG
+  
