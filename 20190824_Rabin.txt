@@ -1,0 +1,62 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Prepossessing C (remove comments)
+    - C to AST (dump AST from C, ignore errors or macros only)
+    - Prepossessing AST (remove errors and header typedef)
+    - Args Count (count all the occurrence of features)
+    - Prepossessing CSV (remove zero rows/cols and normalize value)
+    - X-means clustering on args_normalized csv
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - Min-Max Normalization (y= (x-min)/(max-min))
+    - X-Means (pyclustering.cluster.xmeans)
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - ASE-19-LBR: https://www.overleaf.com/project/5d263a59cf7d6d362d573c73
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - C2AST, Prepossessings, ArgsCount, X-means: https://trello.com/c/3SrhYB7r/33-args-count-from-clang-ast
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    - ArgsCount: https://trello.com/c/3SrhYB7r/33-args-count-from-clang-ast
+    
+06. Include the names and summaries of papers you read.  
+
+    - Learning to Prioritize Test Programs for Compiler Testing
+    - Coverage Prediction for Accelerating Compiler Testing
+
+07. Did you seek help when you needed that? 
+  
+    Think so.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Needs some initiative for compiler testing submission.
+
+09. Obstacles in you research and you plan to overcome them? 
+
+    Some C programs don't have Csmith features, there for results in all zero rows. 
+    In preporocessing phase, this should be removed before normalization.
+
+10. Are you on track to be a productive researcher? 
+
+    Seems good.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Features change in gcc bug reports
+  - Manual vs Automated features in bugs
+  - COP/LET dataset
+
+12. Any skill that you want to practice?
+
+  - X-means, Bug reports.
+  
