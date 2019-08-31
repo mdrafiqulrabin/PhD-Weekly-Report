@@ -1,0 +1,60 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Generate centroids with X-Means by probability thresholds
+    - Generate 10K tc with csmith for default, random and config
+    - Build gcc 6.1.0, 7.1.0, 8.1.0, 9.1.0 in Sabine
+    - Run default/swarm/kconfig 10k tc in gcc 4.8.2, 5.4.0, 6.1.0 ... 9.1.0
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    Reading:
+    - Finding the Maximally Specific Hypothesis
+    - Version Space of Candidate Elimination Algorithm
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - working on the revised K-CONFIG paper.
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - csmith_n.sh: https://trello.com/c/Niy6QCVU/40-revision-task
+    - gcc_n.sh: https://trello.com/c/Niy6QCVU/40-revision-task
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    - csmith_n.sh: https://trello.com/c/Niy6QCVU/40-revision-task
+    - gcc_n.sh: https://trello.com/c/Niy6QCVU/40-revision-task
+    
+06. Include the names and summaries of papers you read.  
+
+    - DeepHunter: A Coverage-Guided Fuzz Testing Framework for Deep Neural Networks.
+
+07. Did you seek help when you needed that? 
+  
+    Always.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Needs some initiative for research work.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Not really as working on revised K-CONFIG.
+
+10. Are you on track to be a productive researcher? 
+
+    Sure, I am on it.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Run default/swarm/kconfig tc in gcc for 6 hours
+  - Revised the writing of K-CONFIG paper
+
+12. Any skill that you want to practice?
+
+  - Not really as working on revised K-CONFIG
+  
