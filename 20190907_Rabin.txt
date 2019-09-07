@@ -1,0 +1,59 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Build GCC trunk version in Sabine
+    - Run swarm in trunk version for 24 hours
+    - Run default/swarm/kconfig in gcc trunk version for 6 hours
+    - Run default/swarm/kconfig in gcc trunk version with 10K tc
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - Multivariate Linear Regression
+    - Gradient descent and Cost func6on
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - Data collecting for Revised K-CONFIG paper (/project/alipour/rabin/kconfig).
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - Run with gcc trunk for 6h and 10K: /project/alipour/rabin/kconfig/scripts
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+
+    - Swarm in gcc trunk: /project/alipour/rabin/kconfig/swarm24h
+    
+06. Include the names and summaries of papers you read.  
+
+    - Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
+
+07. Did you seek help when you needed that? 
+  
+    I have not faced any blocking issue in this week.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    By scheduling an appointment to UH writing center for writing tips.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Not really as working on revised K-CONFIG.
+
+10. Are you on track to be a productive researcher? 
+
+    I think so.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Machine Learning Assignment#1 Due
+  - Graduate Colloquium Writing#1 Due
+  - Revised the writing of K-CONFIG paper
+  - Listing the DNN papers (title, authors, link, task, etc)
+
+12. Any skill that you want to practice?
+
+  - Octave for Machine Learning
+  
