@@ -10,7 +10,7 @@ In the past week:
 02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
 
     - Multivariate Linear Regression
-    - Gradient descent and Cost func6on
+    - Gradient descent and Cost function
   
 03. Papers that you worked on (writing/editing)?  Please add links to the paper 
 
@@ -30,7 +30,7 @@ In the past week:
 
 07. Did you seek help when you needed that? 
   
-    I have not faced any blocking issue in this week.
+    I have not faced any blocking issues this week.
 
 08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
 
@@ -48,8 +48,8 @@ Plan for the next week:
 
 11. Next week’s objectives (be as specific as possible)
 
-  - Machine Learning Assignment#1 Due
-  - Graduate Colloquium Writing#1 Due
+  - Machine Learning Assignment #1 Due
+  - Graduate Colloquium Writing #1 Due
   - Revised the writing of K-CONFIG paper
   - Listing the DNN papers (title, authors, link, task, etc)
 
