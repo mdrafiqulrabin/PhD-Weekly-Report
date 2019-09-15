@@ -1,0 +1,59 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Listing the DNN papers (title, authors, link, task, etc)
+    - Analysis the result of kconfig over swarm
+    - Adding the result of kconfig in Overleaf
+    - Run default/swarm/kconfig with 1 min timeout
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - Reading: Concept Learning and Probabilistic Learning
+    - Writing: Finding the Location of Objects in Indoor Environments Using Ultra-Wideband Radios
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - Result of kconfig in Overleaf (https://www.overleaf.com/project/5d641bb21a2e616c968728c9).
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - kconfig: /project/alipour/rabin/kconfig/scripts
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    - kconfig: /project/alipour/rabin/kconfig/data
+    
+06. Include the names and summaries of papers you read.  
+    
+    - Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
+    - Import2vec: Learning Embeddings for Software Libraries
+    
+07. Did you seek help when you needed that? 
+  
+    I talked with colleagues for issues and ideas.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    By collaboration and time managment.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    I read but missed paper writing for HW submission. I plan to write those by Monday.
+
+10. Are you on track to be a productive researcher? 
+
+    I hope so.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Try with GGNN and report error if any
+  - Analysis function coverage from csmith configuration
+  - Revised the writing of K-CONFIG paper
+
+12. Any skill that you want to practice?
+
+  - Octave for Machine Learning
+  
