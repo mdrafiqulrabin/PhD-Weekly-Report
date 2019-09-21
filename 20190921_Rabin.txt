@@ -1,0 +1,62 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Collect data of DNN models
+    - Apply creduce to kconfig bugs
+    - Function coverage analysis
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - Reading: Concept Learning and Probabilistic Learning
+    - Writing: Finding the Location of Objects in Indoor Environments Using Ultra-Wideband Radios
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    Didn't work on paper writing directly.
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - creduce: /project/alipour/rabin/kconfig/scripts/creduce
+    - coverage analysis: /project/alipour/gcc-installations/analysis
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    - DNN models: https://docs.google.com/spreadsheets/d/1hAUvX_Ss795ddAFzFc5NVlonhRJVH1R-oIHnP1n5rRI/edit#gid=0
+    - creduce: /project/alipour/rabin/kconfig/data/creduce
+    - coverage analysis: /project/alipour/gcc-installations/analysis
+    
+06. Include the names and summaries of papers you read.  
+    
+    - 500+ Times Faster Than Deep Learning
+    - Scalable Approaches for Test Suite Reduction
+    
+07. Did you seek help when you needed that? 
+  
+    I talked with colleagues for issues and ideas.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    By collaboration and time managment.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    I plan to complete all pending task by tomorrow.
+
+10. Are you on track to be a productive researcher? 
+
+    I hope so.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Analysis ongoing function coverage
+  - Try with GGNN and report error if any
+  - Revised the writing of K-CONFIG paper
+
+12. Any skill that you want to practice?
+
+  - SVM+DT for Machine Learning
+  - LSTM for Deep Learning
+  
