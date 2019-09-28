@@ -1,0 +1,61 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Revised the k-config paper writing (for setup.tex and evaluation.tex).
+    - Update proofread feedback of Testing neural program analyzers paper.
+    - Apply n-gram (n=1~5) with 30K test cases .
+    - Details study on Code Vectors paper.
+    - Apply n-gram (n=1~5) with 10K test cases.
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - Presentation on Code Vectors paper.
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - k-config paper: https://www.overleaf.com/project/5d641bb21a2e616c968728c9
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - n-gram: /project/alipour/rabin/kconfig/ngram
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    - n-gram: https://docs.google.com/spreadsheets/d/17QD4Fwk-NdhLpv_03xz24_-6q3KaFqP2HHfxOmi1oCA/edit#gid=0
+    
+06. Include the names and summaries of papers you read.  
+    
+    - Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces
+    - Scalable Approaches for Test Suite Reduction
+    - DeepFuzz: Automatic Generation of Syntax Valid C Programs for Fuzz Testing
+    
+07. Did you seek help when you needed that? 
+  
+    I talked with colleagues for issues and ideas.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    By collaboration and time managment.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Waiting for lab server to run GGNN.
+
+10. Are you on track to be a productive researcher? 
+
+    I aim to follow this 20 Productivity Tips for research (https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/).
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Statistical test among features of test suite
+  - Revised the writing of K-CONFIG paper
+  - ML midterm (Oct 2) and neural based HW (Oct 4).
+  - Task breakdown for testing neural program analyzer
+
+12. Any skill that you want to practice?
+
+  - Machine Learning: IDE - Jupyter Notebook, Topics - Perceptron.
+  
