@@ -1,1 +1,67 @@
-I'll update the weekly report by monday, after finishing task for paper writing.
+In the past week: 
+
+01. Objectives for the week 
+
+    - Abbreviation in Table
+    - Average 3 run as a single (max) row
+    - RQ1: default vs kconfig
+    - RQ2: default vs swarm
+    - RQ3: ngram
+    - Distribution of features
+    - Statistical test among features
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - Libraries Events:
+      1. Finding Data Workshop
+      2. Core Data Management Practices for Researchers
+    - Computer Science Seminar:
+      1. Real Time Character Animation: Deformation, Rendering, and Beyond
+      2. Towards Energy-Efficient Computing in Graphics Processing Units
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - k-config paper: https://www.overleaf.com/project/5d641bb21a2e616c968728c9
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - result analysis: /project/alipour/rabin/kconfig/analysis
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    - result analysis: /project/alipour/rabin/kconfig/analysis
+    
+06. Include the names and summaries of papers you read.  
+    
+    I didn't read any paper for ML midterm and K-Config result analysis.
+    
+07. Did you seek help when you needed that? 
+  
+    I talked with colleagues for issues and ideas.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    By collaboration and time managment.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    chi squared test doesn't work, so we will check coverage information.
+
+10. Are you on track to be a productive researcher? 
+
+    Following 20 Productivity Tips: https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - K-CONFIG paper: RQ
+  - K-CONFIG paper: proof-read
+  - K-CONFIG paper: coverage analysis
+  - ML HW: Analysis of neural network (Sequential)
+
+12. Any skill that you want to practice?
+
+  - Machine Learning: Sequential Neural Network (Keras)
+  - Gcov: GCC coverage analysis
+  
