@@ -1,0 +1,60 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Effectiveness of individual clusters
+    - kconfig with clustering size (ksize)
+    - GCC coverage with gcov
+    - Plots for features in kconfig generated 10k ts
+    - Coverage for all gcc version
+    - ICST Submission: K-CONFIG
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - ICST Submission: K-CONFIG
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - k-config paper: https://www.overleaf.com/project/5d641bb21a2e616c968728c9
+
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    - result analysis: /project/alipour/rabin/kconfig/analysis
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    - result analysis: /project/alipour/rabin/kconfig/analysis
+    
+06. Include the names and summaries of papers you read.  
+    
+    I didn't read any paper for ICST submission.
+    
+07. Did you seek help when you needed that? 
+  
+    Remotely talking for ICST submission.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    By collaboration and time managment.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Coverage analysis not working for GCC 7.1.0, 8.1.0, and trunk.
+
+10. Are you on track to be a productive researcher? 
+
+    Following 20 Productivity Tips: https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Check pending mail and link related to adverserial-code
+  - Check Data of DeepSmith
+  - Transform Java-Small
+  - GGNN in our server
+
+12. Any skill that you want to practice?
+
+  - Not yet decided
+  
