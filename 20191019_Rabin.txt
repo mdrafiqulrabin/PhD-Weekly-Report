@@ -1,0 +1,62 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - ICST Submission: K-CONFIG
+    - Build GGNN tool
+    - Refactoring techniques by SourceMaking
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    1. Attend in Computer Science Seminar: Neuroengineering the Future: From Neural Interfaces to Creativity
+    Link: http://www.uh.edu/nsm/computer-science/news-events/seminars/2019/1014-contrerasvidal.php
+    
+    2. Attend in Computer Science in Practice: High Performance Computing in Chevron
+    Link: http://www.uh.edu/nsm/computer-science/news-events/seminars/2019/1016-salas.php
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - ICST Submission: K-CONFIG
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    N/A
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    N/A
+    
+06. Include the names and summaries of papers you read.  
+    
+    1. Assessing the Generalizability of code2vec Token Embeddings 
+    2. Do People Prefer “Natural” code?
+    
+07. Did you seek help when you needed that? 
+  
+    Yes, for installing package locally with conda.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    By collaboration and time managment.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Nothing in this week.
+
+10. Are you on track to be a productive researcher? 
+
+    Following 20 Productivity Tips: https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+  - Extract method from projects
+  - Apply one transformation in one place at a time
+  - Filter function if "no diff" after transformation
+  - Refactoring tools in GitHub
+
+12. Any skill that you want to practice?
+
+  - Refactoring tools
+  
