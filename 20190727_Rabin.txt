@@ -51,5 +51,4 @@ Plan for the next week:
 
 12. Any skill that you want to practice?
 
-  dotnet/roslyn (https://github.com/dotnet/roslyn)
-  
+  dotnet/roslyn: https://github.com/dotnet/roslyn
