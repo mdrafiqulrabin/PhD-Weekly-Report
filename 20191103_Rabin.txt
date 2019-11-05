@@ -8,7 +8,7 @@ In the past week:
   
 02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
 
-    N/A
+    Presenting a reasearch paper in graduate colloquium.
   
 03. Papers that you worked on (writing/editing)?  Please add links to the paper 
 
@@ -16,11 +16,11 @@ In the past week:
     
 04. Code you developed. Add links to the GitHub or Bitbucket repo. 
 
-    Link: /scratch/rabin/tnpa
+    Link: https://bitbucket.org/mdrafiqulrabin/refactoring-tools/src/master/
     
 05. Analysis that you performed. Include link to the dataset and results.  
     
-    Link: /scratch/rabin/data/code2vec
+    Link: https://bitbucket.org/mdrafiqulrabin/refactoring-tools/src/master/Dataset/
     
 06. Include the names and summaries of papers you read.  
     
