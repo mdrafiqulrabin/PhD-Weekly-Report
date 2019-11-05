@@ -1,0 +1,56 @@
+In the past week: 
+
+01. Objectives for the week 
+
+  - Train code2vec with java-large dataset (ongoing)
+  - C# single methods extractor
+  - C# transformation in single place
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    N/A
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    - PLDI Submission 2019
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    Link: /scratch/rabin/tnpa
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    Link: /scratch/rabin/data/code2vec
+    
+06. Include the names and summaries of papers you read.  
+    
+    1. Automatic Mining of Functionally Equivalent Code Fragments via Random Testing
+    
+07. Did you seek help when you needed that? 
+  
+    Yes, continuously knocking.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    By digging inside extracting tool/model.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    train code2vec, run GGNN model
+
+10. Are you on track to be a productive researcher? 
+
+    Following 20 Productivity Tips: https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - Train code2vec with java-large dataset
+    - Hack into GGNN's source code
+    - Run GGNN model for var-naming
+
+12. Any skill that you want to practice?
+
+  - GGNN model
+  
