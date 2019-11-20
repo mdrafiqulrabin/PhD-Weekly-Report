@@ -1,0 +1,33 @@
+Attending ASE 2019 conference, San Diego, California.
+
+[Date: Nov 12, 2019]
+
+  08:30 - 10:00: Papers - Plenary Session at Cortez Ballroom
+  10:00 - 10:40: Demonstrations - Poster Session: Tool Demonstrations 1 at Kensington Ballroom
+  10:40 - 12:20: Papers - AI and SE at Cortez 2&3
+  12:20 - 13:40: Social - First-Timer’s Lunch
+  13:40 - 15:20: Papers - Testing and Verification at Cortez 1
+  15:20 - 16:00: Doctoral Symposium - Poster Session: Doctoral Symposium at Kensington Ballroom
+  16:00 - 17:40: Papers - Testing and Visualization at Cortez 1
+  18:00 - 21:00: Social - ASE Reception at Kensington Ballroom/Kensington Terrace
+  
+[Date: Nov 13, 2019]
+
+  08:30 - 10:00: ...
+  10:00 - 10:40: Demonstrations - Poster Session: Tool Demonstrations 2 at Kensington Ballroom
+  10:40 - 12:20: Papers - Testing and Program Analysis at Cortez 1
+  12:20 - 13:40: Social - Diversity and Inclusion Lunch
+  13:40 - 15:20: Papers - Systems and Localization at Cortez 2&3
+  15:20 - 16:00: Late Breaking Results - Poster Session: Late Breaking Results at Kensington Ballroom
+  16:00 - 18:00: ...
+  18:00 - 21:00: Social - ASE Banquet
+  
+[Date: Nov 14, 2019]
+  
+  08:30 - 10:00: Papers - Plenary Session at Cortez Ballroom
+  10:00 - 10:40: Demonstrations - Poster Session: Tool Demonstrations 3 at Kensington Ballroom
+  10:40 - 12:20: Papers - Deep Models at Cortez 2&3
+  12:20 - 13:40: Social - ... Lunch
+  13:40 - 15:20: Papers - Models and Logs at Hillcrest
+  15:20 - 00:00: ...
+  
