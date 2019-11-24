@@ -1,1 +1,56 @@
+In the past week: 
 
+01. Objectives for the week 
+
+  - Machine Learning Final Mid-Term
+  - Apply prediction on java-small/test dataset for code2vec
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    Computer Science Distinguished Seminar
+    Topic: A Practical Unstructured Spline Modeling Platform for Isogeometric Analysis Applications
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    N/A
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    Link: /scratch/rabin/tool/code2vec/interactive_predict.py
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    Link: /scratch/rabin/tool/code2vec/predict
+    
+06. Include the names and summaries of papers you read.  
+    
+    1. AutoFocus: Interpreting Attention-based Neural Networks by Code Perturbation
+    
+07. Did you seek help when you needed that? 
+  
+    Yes, whenever needed.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Learning deep neural model.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Prediction code is running in sequence with tmux, for 1 project it spent more than 24h!
+    It could happen for large size of project, I will see few more projects over weekend.
+
+10. Are you on track to be a productive researcher? 
+
+    Following 20 Productivity Tips: https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - [continuing] Apply prediction on test dataset for code2vec
+    - Machine Learning Final Project Submission
+
+12. Any skill that you want to practice?
+
+  - communication and writting
+  
