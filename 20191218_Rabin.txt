@@ -1,0 +1,61 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Examples of transformation in overleaf
+    - Scalability of misprediction
+    - Dictionary for method name (method_name, num_of_same_method_name)
+    - Training regime to 100 epochs (continuing for java-large)
+    - Permute statement for all pairs
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    An In-Depth Explanation of Code Complexity:
+    https://blog.codacy.com/an-in-depth-explanation-of-code-complexity/
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    https://www.overleaf.com/project/5db0caf9a34e6600015166cb
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    /scratch/rabin/ISSTA/f1-score/scalability  
+    /scratch/rabin/ISSTA/scalability/method_name_dict
+    /scratch/rabin/ISSTA/f1-score 
+    /scratch/rabin/ISSTA/permutestatementall
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    /scratch/rabin/ISSTA/scalability/
+    
+06. Include the names and summaries of papers you read.  
+    
+    Neural Machine Translation by Jointly Learning to Align and Translate
+    
+07. Did you seek help when you needed that? 
+  
+    Yes, whenever needed.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Running code2seq nad Learning graph neural model.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Training for java-large taking long time and delaying the prediction of permutestatement.
+
+10. Are you on track to be a productive researcher? 
+
+    Following 20 Productivity Tips: https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - Running code2seq
+    - Permute statement for java & c#
+
+12. Any skill that you want to practice?
+
+    code2seq
+  
