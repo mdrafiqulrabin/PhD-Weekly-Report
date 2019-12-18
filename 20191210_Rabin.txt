@@ -1,0 +1,58 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Predict java-large with batch
+    - Machine Learning Final Project Submission
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    Working on Machine Learning Final Project submission
+    https://github.com/mdrafiqulrabin/ml-stacking-loss/
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    https://www.overleaf.com/project/5db0caf9a34e6600015166cb
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+
+    https://github.com/mdrafiqulrabin/fork2-code2vec
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    /scratch/rabin/ISSTA/misprediction
+    
+06. Include the names and summaries of papers you read.  
+    
+    No planned paper to read.
+    
+07. Did you seek help when you needed that? 
+  
+    Yes, whenever needed.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Learning graph neural model.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    To obtain reproducible results using keras:
+    https://keras.io/getting-started/faq/#how-can-i-obtain-reproducible-results-using-keras-during-development
+
+10. Are you on track to be a productive researcher? 
+
+    Following 20 Productivity Tips: https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - Scalability of misprediction
+    - Training regime to 100 epochs
+    - Put examples of transformation in overleaf
+    - Read paper and check code for code2seq
+
+12. Any skill that you want to practice?
+
+    Code Complexity: https://blog.codacy.com/an-in-depth-explanation-of-code-complexity/
+  
