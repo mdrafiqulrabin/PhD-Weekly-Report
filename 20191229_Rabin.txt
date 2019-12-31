@@ -1,39 +1,64 @@
 In the past week: 
 
 01. Objectives for the week 
+
+    - Preprocess java dataset for code2seq
+    - Train code2seq model (java-small & java-med)
+    - Misprediction analysis with code2seq
+    - Scalability of misprediction for code2seq
+    - Update results with permute statement from next pair to all pairs
+    - kconfig: Creduce with the invocation of gcc and clang to avoid undefiend behaviors
   
 02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
 
+    writing: https://www.overleaf.com/3253591763cvkfdzbnfhsj
+    coding: /scratch/rabin/ISSTA/code2seq/
   
 03. Papers that you worked on (writing/editing)?  Please add links to the paper 
 
+    TNPA: https://www.overleaf.com/3253591763cvkfdzbnfhsj
     
 04. Code you developed. Add links to the GitHub or Bitbucket repo. 
-
+    
+    /scratch/rabin/ISSTA/code2seq/preprocess_transformation
+    /scratch/rabin/ISSTA/code2seq/predict_transformation
+    /scratch/rabin/ISSTA/code2seq/mispredict_scalability
     
 05. Analysis that you performed. Include link to the dataset and results.  
     
+    /scratch/rabin/ISSTA/code2seq/data/preprocess-transformation/
+    /scratch/rabin/ISSTA/code2seq/models/
     
 06. Include the names and summaries of papers you read.  
     
+    1. Neural Machine Translation by Jointly Learning to Align and Translate
+    2. code2seq: Generating Sequences from Structured Representations of Code
     
 07. Did you seek help when you needed that? 
   
+    Talked with Amin for Creduce and Nghi for GGNN VarNaming.
 
 08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
 
+    Following productivity tips of researchers: 
+    https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
     
 09. Obstacles in you research and you plan to overcome them? 
 
+    Detecting unique number of gcc bugs for kconfig.
 
 10. Are you on track to be a productive researcher? 
 
+    I have to write some papers' summary that I already read.
 
 Plan for the next week: 
 
 11. Next week’s objectives (be as specific as possible)
 
+    - Summarize findings from result section
+    - PermuteStatement (all pairs) for C#
 
 12. Any skill that you want to practice?
 
-  
+    - Not for next week
+    
