@@ -1,0 +1,61 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Fix code for Unreachable Statement in C#
+    - Implement Permute Statement for all pairs in C#
+    - Upload updated data of C# in server
+    - Effect of transformations in AST
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    The Craft of Writing Effectively
+    Link: https://www.youtube.com/watch?v=vtIzMaLkCaM
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    TNPA: https://www.overleaf.com/3253591763cvkfdzbnfhsj
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    https://bitbucket.org/mdrafiqulrabin/refactoring-tools/src/master/CSharpTransformer/
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    https://bitbucket.org/mdrafiqulrabin/shared_data/src/master/csharp_transformed_data/
+    
+06. Include the names and summaries of papers you read.  
+    
+    1. Neural Machine Translation by Jointly Learning to Align and Translate
+    2. code2seq: Generating Sequences from Structured Representations of Code
+    
+07. Did you seek help when you needed that? 
+  
+    Yes: updated transformed data.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Following productivity tips of researchers: 
+    https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    kconfig: number of unique bugs; mail sent for collaboration
+
+10. Are you on track to be a productive researcher? 
+
+    Yes.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - Summarize findings from result section
+    - Effect of transformations in AST
+    - Impact of the method's size
+    - Impact of transformation in all places
+
+12. Any skill that you want to practice?
+
+    - Nothing for upcoming week
+    
