@@ -1,0 +1,55 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - TNPA: Evaluation approach & Experimental setting
+    - kconfig: Experiment with GCC 4.3.0
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    TNPA: https://www.overleaf.com/3253591763cvkfdzbnfhsj
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    TNPA: https://www.overleaf.com/3253591763cvkfdzbnfhsj
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    script: /project/alipour/rabin/kconfig/icst20/scripts/kconfig/3_gcc_n.sh
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    result: /project/alipour/rabin/kconfig/icst20/data/gcc_n/430/
+    
+06. Include the names and summaries of papers you read.  
+    
+    1. code2vec: Learning Distributed Representations of Code
+    2. code2seq: Generating Sequences from Structured Representations of Code
+    
+07. Did you seek help when you needed that? 
+  
+    Yes, always.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Following productivity tips of researchers: 
+    https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    kconfig: test program still fails in the latest release.
+
+10. Are you on track to be a productive researcher? 
+
+    Yes.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - ISSTA submission
+
+12. Any skill that you want to practice?
+
+    - Nothing in plan
+    
