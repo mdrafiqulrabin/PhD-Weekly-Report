@@ -1,0 +1,8 @@
+Studying materials of deep learning from coursera:
+Link: https://www.coursera.org/specializations/deep-learning
+
+> Neural Networks and Deep Learning [Done: 100%]
+  Link: https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
+  
+> Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization [Done: 60%]
+  Link: https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
