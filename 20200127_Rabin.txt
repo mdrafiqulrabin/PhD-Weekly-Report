@@ -1,0 +1,12 @@
+[ISSTA Submission 2019]
+
+#1: kconfig: https://trello.com/b/vELyivPk/test-amplification
+> Experiment with GCC 4.3.0
+> Detect failures and coverage for HiCOND
+
+#2: tnpa: https://trello.com/b/TZTfEFy5/test-neural-programs
+> RQ1: Impact of Transformation on the Models
+> RQ2: When Transformations are most Effective
+  > single-place vs all-place
+  > correctly vs incorrectly predicted methods
+> RQ3: Impact of Method Length on Generalizability
