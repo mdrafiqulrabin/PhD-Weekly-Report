@@ -1,0 +1,58 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Issues fixed for JavaExtractor related to method path
+    - Issues fixed for Model on saving training loss
+    - [java-small] Preprocess training dataset
+    - [java-small] Save training loss with corresponding file path
+    - Plot scatter and histogram, and details summary for top3 epoch.
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - CS Seminar: Introduction to Neural Networks
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    Currently we're experimenting on ensemble with loss.
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    script: https://github.com/mdrafiqulrabin/fork2-code2seq
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    result: /scratch/rabin/ensemble/fork2-code2seq/ensemble
+    
+06. Include the names and summaries of papers you read.  
+    
+     Working on fixing issues with loss (also had double submission), didn't get chance to read papers.
+    
+07. Did you seek help when you needed that? 
+  
+    Yes, for getting single loss from sequence of loss by adding them.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Following productivity tips of researchers: 
+    https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Having memory issues for java-large, we'll try be reducing heap size and thread.
+
+10. Are you on track to be a productive researcher? 
+
+    Yes.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - Saving loss for validation same as training
+    - Ensemble training after spliting dataset by loss
+
+12. Any skill that you want to practice?
+
+    - Nothing in plan
+    
