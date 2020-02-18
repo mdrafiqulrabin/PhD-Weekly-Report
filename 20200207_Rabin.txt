@@ -1,0 +1,57 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - Searching for Related Works of Language Model
+    - Continuing work on saving training loss with corresponding file path
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - CS Seminar: Let's Process Information, Not Bits: Architecture's Expensive Data Movement
+    - CS Seminar: Neural Networks and Deep Learning
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    Currently not working on any particular paper, we're experimenting on some ideas to start the paper.
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    script: https://github.com/mdrafiqulrabin/fork2-code2seq
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    result: /scratch/rabin/ensemble/fork2-code2seq/ensemble
+    
+06. Include the names and summaries of papers you read.  
+    
+    1. Software Engineering for Machine Learning: A Case Study
+    2. DeepFuzz: Automatic Generation of Syntax Valid C Programs for Fuzz Testing
+    
+07. Did you seek help when you needed that? 
+  
+    Yes, issues on saving training loss.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Following productivity tips of researchers: 
+    https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Currently method path is not in Extractor, we have to modify code to add corresponding path.
+
+10. Are you on track to be a productive researcher? 
+
+    Yes.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - Saving training loss with corresponding file path
+    - Ensemble training after spliting dataset by loss
+
+12. Any skill that you want to practice?
+
+    - Nothing in plan
+    
