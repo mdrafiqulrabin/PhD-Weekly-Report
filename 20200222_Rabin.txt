@@ -1,0 +1,64 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - split loss by half and train two ensemble model
+    - adding percentage of bar on histogram
+    - 7 histogram by splitting loss [0~10, 11~20, ...]
+    - change of loss (bettter/worse) between best 3 epoch
+    - distribution of labels in part1/part2 compared to main
+    - change of loss in part1/part2 compared to main
+    - ensemble on taking 10% from train as val
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - CS Seminar: Clustering: Basic Approaches and Their Evaluation
+    - Journal Club - AI for software engineering
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    Currently we're experimenting on ensemble with loss.
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    script: https://github.com/mdrafiqulrabin/fork2-code2seq
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    result: /scratch/rabin/ensemble/fork2-code2seq/ensemble
+    
+06. Include the names and summaries of papers you read.  
+    
+     1. Adversarial Sample Detection for Deep Neural Network through Model Mutation Testing
+    
+07. Did you seek help when you needed that? 
+  
+    Everything was going as per plan.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Following productivity tips of researchers: 
+    https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Everything was going as per plan.
+
+10. Are you on track to be a productive researcher? 
+
+    Yes.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - complexity and confidence matrix
+    - pca embedding and tsne of c2v
+    - merge dataset after filtering by size and frequency
+    - training on merge data for losses
+    - summary and histogram on merge data
+
+12. Any skill that you want to practice?
+
+    - N/A
+    
