@@ -56,5 +56,5 @@ Plan for the next week:
 
 12. Any skill that you want to practice?
 
-    - N/A
+    - t-SNE
     
