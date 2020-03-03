@@ -1,0 +1,60 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - extract handcrafted features list for 100 random programs
+    - featurs as binary and normalized count
+    - t-SNE to visualize the handcrafted features list
+    - visualize the embedding for the code2vec using t-SNE
+  
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - Study materials for SVM and t-SNE
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+
+    Currently we're experimenting with handcrafted features.
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    script: /scratch/rabin/pca/
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    result: /scratch/rabin/pca/
+    
+06. Include the names and summaries of papers you read.  
+    
+     I had setup the new workstation (Ubuntu, Ethernet, CUDA, TF).
+    
+07. Did you seek help when you needed that? 
+  
+    Everything was going as per plan.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Following productivity tips of researchers: 
+    https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Everything was going as per plan.
+
+10. Are you on track to be a productive researcher? 
+
+    Yes.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - basic SVM to train the classifier with handcrafted features
+    - run experiment with random 100 examples as non-target
+    - SVM parameters optimization using GridSerachCV
+    - SVM: handcrafted + c2v
+    - plot 3d t-SNE and detect point in t_SNE
+
+12. Any skill that you want to practice?
+
+    - N/A
+    
