@@ -1,0 +1,67 @@
+In the past week: 
+
+01. Objectives for the week 
+
+    - c2s: save flat embeddings (200*320) from code2seq
+    - c2s: apply pca to get reduced dimension (n=1000)
+    - c2s: run 5 algorithms using StratifiedKFold and GridSerachCV
+    - c2v: save flat embeddings (200*384) from code2vec
+    - c2v: apply pca to get reduced dimension (n=1000)
+    - c2v: run 5 algorithms using StratifiedKFold and GridSerachCV
+    - adding results and tSNE into overleaf 
+    
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - N/A
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+    
+    https://www.overleaf.com/project/5e61d3179efa760001de1ea8
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    code2seq: /scratch/rabin/pca/uhserg-pca/code2seq
+    code2vec: /scratch/rabin/pca/uhserg-pca/code2vec
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    data: /scratch/rabin/pca/uhserg-pca/data
+    result: /scratch/rabin/pca/uhserg-pca/result
+    
+06. Include the names and summaries of papers you read.  
+    
+     I have not read any paper but has plan to read.
+    
+07. Did you seek help when you needed that? 
+  
+    Things was going as per plan.
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Following productivity tips of researchers: 
+    https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    Things was going as per plan.
+    
+10. Are you on track to be a productive researcher? 
+
+    Yes.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - Select top20 frequent methods
+    - Handcrafted feature extractions for top20
+    - Build handcrafted java extractor for top20
+    - Dataset with top20 methods from java-large
+    - Training/Validation/Test split instead of K-Fold
+    - Only code2vec using code_vectors (384 dimension)
+    - Multilabel classification for handcrafted
+
+12. Any skill that you want to practice?
+
+    - Multilabel classification
+  
