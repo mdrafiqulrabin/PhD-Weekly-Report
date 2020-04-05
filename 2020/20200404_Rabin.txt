@@ -1,0 +1,61 @@
+In the past week: 
+
+01. Objectives for the week 
+    - Perform deduplication for java-large
+    - Binary classification using deduplication java-large-test [K-Fold]
+    - Handcrafted features for multi-classification [top11]
+    - Training/Validation/Test split instead of K-Fold
+    - Training SVM for multi-classification with all samples [top11] (still running)
+    - Training SVM for multi-classification with 1K train per label [top11]
+    - code2vec with all samples and 1K train per label [top11]
+
+02. The research skills (e.g. reading/writing/presentation/coding...) worked on 
+
+    - SVM and Deduplication
+  
+03. Papers that you worked on (writing/editing)?  Please add links to the paper 
+    
+    https://www.overleaf.com/project/5e61d3179efa760001de1ea8
+    
+04. Code you developed. Add links to the GitHub or Bitbucket repo. 
+    
+    /scratch/rabin/pca/uhserg-pca/handcrafted
+    
+05. Analysis that you performed. Include link to the dataset and results.  
+    
+    data: /scratch/rabin/pca/uhserg-pca/data
+    result: /scratch/rabin/pca/uhserg-pca/result
+    
+06. Include the names and summaries of papers you read.  
+    
+     - Semantic Robustness of Models of Source Code 
+    
+07. Did you seek help when you needed that? 
+
+    - Yes, discussing in group meetings
+
+08. How could you increase your effectiveness by 1%. (e.g. writing scripts for some tasks, better organization, not doing some of the things that you did, etc.) 
+
+    Following productivity tips of researchers: 
+    https://www.academictransfer.com/en/blog/20-productivity-tips-for-researchers/.
+    
+09. Obstacles in you research and you plan to overcome them? 
+
+    - code2vec outperforming SVM, planning to extend features
+    
+10. Are you on track to be a productive researcher? 
+
+    Yes.
+
+Plan for the next week: 
+
+11. Next week’s objectives (be as specific as possible)
+
+    - Related literature study
+    - reduce code2vec dimension to handcrafted dimension [i.e. 384 to 39]
+    - improve handcrafted featutes to improve score [i.e. execute, run]
+
+12. Any skill that you want to practice?
+
+    - Related literature study
+  
