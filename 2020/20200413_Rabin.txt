@@ -2,10 +2,11 @@ In the past week:
 
 - Share misclassifications and correct classifications for c2v and SVM.
 - Study about the encoder-decoder architecture and attention mechanism.
+- Downloading Gitter data using REST Api.
 - NLP mini-project: sorting unordered repeated letters to sorted unique letters using encoder+decoder+attention.
 - Paper presentation: Testing Machine Learning Algorithms for Balanced Data Usage.
 
 Plan for the next two weeks: 
 
-- Final Project & Presentation: COSC 6351 - SE
-- Final Project & Presentation: COSC 6336 - NLP 
+- Final Project, Presentation & Report: COSC 6351 - SE
+- Final Project, Presentation & Report: COSC 6336 - NLP 
