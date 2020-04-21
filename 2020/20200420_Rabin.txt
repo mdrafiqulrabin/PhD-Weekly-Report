@@ -1,6 +1,6 @@
 In the past week: 
 
-- Basic-Block PermuteStatement implementation
+- Basic-Block PermuteStatement implementation for Java
 - Result analysis and update overleaf table and image for code2vec
 - Checking Nghi's parser for GGNN method name prediction
 - SE Project implementation and presentation
