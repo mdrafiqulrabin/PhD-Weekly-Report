@@ -1,0 +1,10 @@
+In the past week: 
+
+- ASE20 Submission (Working 90%+ of time for ASE submission + with Nghi for path fixing and GGNN data analysis)
+- NLP Project (Worked on char and word embedding on Friday and Saturday)
+- Issue: Can't manage time for handcrafted features, perhaps after ASE submission.
+
+Plan for the next weeks: 
+
+- ASE20 Submission
+- NLP project finishing + report writing
