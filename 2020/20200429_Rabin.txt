@@ -6,5 +6,5 @@ In the past week:
 
 Plan for the next weeks: 
 
-- ASE20 Submission
-- NLP project finishing + report writing
+- ASE20 Submission (table + figure for GGNN and text update in overleaf)
+- NLP project finishing (token embedding) + report writing
