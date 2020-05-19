@@ -1,0 +1,25 @@
+  
+In the past week: 
+
+- Handcrafted multi-classification:  
+    1. c2v + SVM
+    2. char_ascii + GRU
+    
+- Handcrafted binary-classification:  
+    1. Setup SVMLight (C binaries) 
+    2. Split data for binary-classification
+    3. Dump svm-light file format
+    4. Train models for HFE(binary, norm) and code2vec
+    5. Add code2vec + HFE together and train model
+    6. Check stability of code2vec embedding multiple dump
+
+Plan for the next weeks: 
+
+- Journal Extension:
+    1. Update CSharpTransformer
+    2. Check CSharpExtractor
+    
+- Generalization vs Memorization:
+    1. Read paper
+    2. Brainstorming
+    
