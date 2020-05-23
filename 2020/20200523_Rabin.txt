@@ -1,0 +1,23 @@
+In the past week: 
+
+- Generalization vs Memorization:
+    1. CSharpTransformer: 
+        - Add new changes from JAVATransformer
+        - Pre checking before applying transformation
+        - Updated PermuteStatement, TryCatch and LogStmt.
+        - Added ReorderCondition and RemoveComment.
+    2. Transformed microsoft data and shared with team.
+  
+- Handcrafted binary-classification:  
+    1. Report result in overleaf and email
+    2. Calculate mutual information of features
+
+Plan for the next weeks: 
+
+- Generalization vs Memorization:
+    1. Reshuffle labels and retrain model
+    2. Check CSharpExtractor on CSharp data
+    
+- Handcrafted binary-classification:
+    1. Entropy and Information Gain
+    2. Search for Complexity Metrics
