@@ -1,0 +1,12 @@
+In the past week: 
+
+  - Startified shuffling 25%, 50%, 75%, and 100% of method name
+  - Training models for each shuffled partitions
+  - A Closer Look at Memorization in Deep Networks
+
+Plan for the next weeks: 
+
+  - Study paper for Memorization
+  - Search for Complexity Metrics
+  
+  
