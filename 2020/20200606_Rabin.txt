@@ -1,0 +1,12 @@
+In the past week: 
+
+  - Token, BFS and DFS node based embedding for method
+  - Review two manuscripts: Fault localization and App Privacy.
+  - Lisiting proceedings of ICSE 2019 and ISSTA 2019.
+
+Plan for the next weeks: 
+
+  - Study paper for Memorization
+  - CSharpExtractor on CSharp programs
+  - Search for Complexity Metrics
+  
