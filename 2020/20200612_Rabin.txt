@@ -1,0 +1,29 @@
+In the past week: 
+
+  - HFE:
+    - Added new features based on code complexity (now total = 53)
+    - Train SVMLight on updated feature list
+  - Extension of Generalizability:
+    1) Run CSharpExtractor
+        - Install dotnetcore 2.2.0 in server
+        - Add full path in CSharpExtractor
+        - Unknown write issue in parallel threading 
+        - Preprocess CSharp dataset
+    2) Split CSharp MS Data (24 projects):
+        - Separate methods from .cs file
+        - Train/Val/Test split by projects (poor training performance)
+        - Stratified split by methods (better training performance)
+    3) More CSharp Transformations:
+        - Permute-Statement (basic block)
+        - Log-Statement-Insertion
+        - Reorder-Condition
+        - Try-Catch-Insertion
+
+Plan for the next weeks: 
+
+  - Study papers on Generalizability vs Memorization
+  
+  
+Extra Task:
+  - TA Soft Design: Assignment-1, grading for 22 groups.
+
