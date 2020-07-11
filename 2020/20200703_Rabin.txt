@@ -1,5 +1,13 @@
-Experiment of memorization using java-small dataset:
+In the past week: 
 
-1. Startified shuffling 0%, 25%, 50%, 75%, and 100% of method name.
-2. Training models for each shuffled partitions and save data.
-3. Plots for training and validation prediction, loss, gini, f1/accuracy.
+    Experiment of memorization using java-small dataset:
+
+    1. Startified shuffling 0%, 25%, 50%, 75%, and 100% of method name.
+    2. Training models for each shuffled partitions and save data.
+    3. Plots for training and validation prediction, loss, gini, f1/accuracy.
+
+Plan for the next weeks: 
+
+    1. Experiment and plot memorization using SA dataset.
+    2. Submission plan for workshop/short paper.
+    
