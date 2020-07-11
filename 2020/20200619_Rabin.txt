@@ -1,0 +1,12 @@
+Study the literature about memorizations:
+
+1. A closer look at memorization in deep networks (https://dl.acm.org/doi/10.5555/3305381.3305406)
+2. Understanding deep learning requires rethinking generalization (https://arxiv.org/abs/1611.03530)
+3. DNN or k-NN: That is the Generalize vs. Memorize Question (https://arxiv.org/pdf/1805.06822.pdf)
+4. The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks (https://arxiv.org/pdf/1802.08232.pdf)
+5. Deep Nets Don't Learn via Memorization (https://openreview.net/pdf?id=rJv6ZgHYg)
+6. Does Learning Require Memorization? A Short Tale about a Long Tail (https://dl-acm-org.ezproxy.lib.uh.edu/doi/pdf/10.1145/3357713.3384290)
+7. Others listing in Trello: https://trello.com/c/HvKrFutk/13-memorization
+
+Slide: https://docs.google.com/presentation/d/1aYdDuI3iidWTlAem6M8TLXnE_IWeKVU-lwL1yAHXhmM/edit?usp=sharing
+
