@@ -1,0 +1,5 @@
+Experiment of memorization using java-small dataset:
+
+1. Startified shuffling 0%, 25%, 50%, 75%, and 100% of method name.
+2. Training models for each shuffled partitions and save data.
+3. Plots for training and validation prediction, loss, gini, f1/accuracy.
