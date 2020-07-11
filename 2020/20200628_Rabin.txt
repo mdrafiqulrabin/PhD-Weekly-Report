@@ -1,5 +1,12 @@
-Experiment for Handcrafted Features:
+In the past week: 
 
-1. Ablation of feature selection based on most information gain.
-2. Experiments with SA-dataset for code classification.
-3. Submission plan for workshop/short paper.
+    Experiment for Handcrafted Features:
+
+    1. Ablation of feature selection based on most information gain.
+    2. Experiments with SA-dataset for code classification.
+    3. Submission plan for workshop/short paper.
+
+Plan for the next weeks: 
+
+    1. Experiment of memorization using java-small dataset.
+    2. Plots figures of memorization.
