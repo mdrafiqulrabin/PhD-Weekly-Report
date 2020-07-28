@@ -1,0 +1,12 @@
+
+In the past week: 
+
+    1. Experiment of HF using binary + normalized.
+    2. ISSRE rebuttal for kconfig.
+    3. Overleaf for HF workshop paper.
+
+Plan for the next weeks: 
+
+    1. Share C# split data with transformation with Nghi.
+    2. Overleaf for HF and Augmentation.
+    
