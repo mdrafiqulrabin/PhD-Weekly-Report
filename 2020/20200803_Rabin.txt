@@ -1,0 +1,11 @@
+In the past week: 
+
+    1. Fix typos for NPA paper and new overleaf for IST. 
+    2. Update for HF workshop paper in Overleaf and Present HF paper in research meeting.
+    3. Grading TA work (assignment + report + project demo)
+
+Plan for the next weeks: 
+
+    1. NPA submission for IST.
+    2. HF workshop result analysis.
+    
