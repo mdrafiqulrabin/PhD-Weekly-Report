@@ -1,0 +1,11 @@
+In the past week: 
+
+    1. Grade TA Project Demo Report - Done
+    2. IST: modify + submission
+    3. HC: Update overleaf
+    4. Presentation: Open-Vocabulary Models for Source Code
+
+Plan for the next weeks: 
+
+    1. HC submission
+    2. Kconfig submission
