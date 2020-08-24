@@ -4,5 +4,5 @@ In the past week:
 
 Plan for the next weeks: 
 
-    1. Kconfig submission
+    1. Kconfig SAC-SVT submission
     2. Plan for delta debugging
