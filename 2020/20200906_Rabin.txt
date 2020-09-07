@@ -1,0 +1,10 @@
+In the past week: 
+
+    1. Kconfig SAC-SVT submission
+    2. Delta debugging for handcrafted-svm
+    3. Delta debugging for code2vec model
+
+Plan for the next weeks: 
+
+    1. Select 50 * 10 most occuring correctly predicted methods from Java Large
+    2. Apply delta debugging to get simplified methods for them
