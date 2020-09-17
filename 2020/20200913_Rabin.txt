@@ -1,0 +1,15 @@
+In the past week: 
+
+    1. Delta debugging for code2vec model
+    2. Apply delta debugging on 10*10 methods
+    3. Save score, loss, and simplified programs
+    4. FuzzCon 2020: interesting talks -
+        - Top N challenges of "deep" fuzzing by Kostya Serebryany
+        - Taming Fuzzers by Andreas Zeller
+
+Plan for the next weeks: 
+
+    1. Upload code of HC in Github
+    2. Prepare camera-ready version for HC
+    3. continue dd-code2vec
+    
