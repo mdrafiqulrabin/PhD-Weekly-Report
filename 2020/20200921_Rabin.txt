@@ -1,0 +1,12 @@
+In the past week: 
+
+    1. Upload code of HC in Github
+    2. Prepare camera-ready version for HC
+    3. dd-code2vec for prediction and loss
+    4. Present paper: [FSE'18] Deep Learning Type Inference
+
+Plan for the next weeks: 
+
+    1. dd-code2vec for prediction and loss
+    2. Check source code of DeepType/DeepRepair
+    
