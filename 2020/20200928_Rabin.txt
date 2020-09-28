@@ -1,0 +1,14 @@
+In the past week: 
+
+    1. dd-code2seq for prediction and loss
+    2. code-captioning task on code2seq:
+      2.1. Extract codenn csharp SO dataset
+      2.2. Preprocess codenn csharp SO dataset
+      2.2. Training dd-code2seq on code-captioning task
+
+Plan for the next weeks: 
+
+    1. apply dd-code2seq on code-captioning task
+    2. apply dd-code2vec on code-captioning task
+    3. save timestamp during dd simplification
+    4. think about some RQs
