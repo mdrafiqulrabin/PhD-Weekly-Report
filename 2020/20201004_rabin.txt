@@ -1,0 +1,10 @@
+In the past week: 
+
+    1. apply dd-code2seq on Java code-captioning task
+    2. Study the adversarial robustness of code
+
+Plan for the next weeks: 
+
+    1. IST: 50% tarnsformed dataset
+    2. DD: Importance of tokens: original vs simplified
+    
