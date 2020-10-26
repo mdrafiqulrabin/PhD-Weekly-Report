@@ -1,0 +1,11 @@
+In the past week:
+
+    1. 25%-50%-75% transformation analysis
+    2. Subtoken evaluation metrics
+    3. Software Testing for ML
+
+Plan for the next week:
+
+    1. [RE+SE&PL] 2 min and 30 min presentations
+    2. [IST] Percentage transformation and Subtoken evaluation
+    
