@@ -1,8 +1,9 @@
 In the past week:
 
-    0. [AAAI20] Presentation - Software Testing for Machine Learning
-    1. [IST]: Percentage transformation (places>=4)
-    2. [IST]: Subtoken evaluation (including GGNN)
+    1. [RE+SE&PL] Camera ready submission
+    2. [AAAI20] Presentation - Software Testing for Machine Learning
+    3. [IST]: Percentage transformation (places>=4)
+    4. [IST]: Subtoken evaluation (including GGNN)
 
 Plan for the next week:
 
