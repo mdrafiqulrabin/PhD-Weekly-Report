@@ -1,0 +1,10 @@
+In the past week:
+
+    1. [IST] x-transformation and sub-token metrics
+    2. [RE+SE&PL] Presentation
+    3. [ESEC/FSE] SV at ConfigQoS and SRC
+
+Plan for the next week:
+
+    1. IST Submission
+    2. Study FSE20 DNN dynamic slicing
