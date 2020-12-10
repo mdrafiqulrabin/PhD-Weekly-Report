@@ -1,0 +1,9 @@
+In the past week:
+
+    1. Percentage transformation (places>=4)
+    2. Subtoken evaluation (including GGNN)
+
+Plan for the next week:
+
+    1. [RE+SE&PL] Presentation
+    2. [ESEC/FSE] SV
