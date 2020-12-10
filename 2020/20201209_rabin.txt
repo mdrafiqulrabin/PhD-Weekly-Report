@@ -1,0 +1,9 @@
+In the past week:
+
+    1. [DD-Model] Fixed the loss issue - keep method name
+    2. [DD-Model] Run for code2seq - reduce sum loss
+
+Plan for the next week:
+
+    1. [DD-Model] - try perses  
+    2. [DD-Model] - attribution score
