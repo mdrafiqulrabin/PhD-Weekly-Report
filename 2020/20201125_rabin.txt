@@ -1,0 +1,8 @@
+In the past week:
+
+    1. IST Submission
+
+Plan for the next week:
+
+    1. Study FSE20 DNN dynamic slicing
+    2. Check DD loss issue
