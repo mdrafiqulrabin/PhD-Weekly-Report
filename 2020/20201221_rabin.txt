@@ -1,0 +1,11 @@
+In the past week:
+
+    1. [DD-Model] perses and code2seq
+    2. CITI Program
+    3. [SAC-SVT] Camera ready version of k-config
+
+Plan for the next week:
+
+    1. [DD-Model] - dd for token  
+    2. [DD-Model] - attribution score
+    
