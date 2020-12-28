@@ -1,0 +1,11 @@
+In the past week:
+
+    1. [DD-Model] dd for token
+    2. [DD-Model] perses with code2vec
+    3. [DD-Model] study attribution score for image
+
+Plan for the next week:
+
+    1. [DD-Model] - attribution score for programs
+    2. [DD-Model] - map code2vec input features to AST/Code
+    
