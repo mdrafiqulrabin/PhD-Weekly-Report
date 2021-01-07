@@ -5,7 +5,7 @@ In the past week:
                   - work in progress, still didn't find way to adopt for code2vec/code2seq
                   
     2. [DD-Model] - check attention score to highlight AST path
-                      - extract path-context using extractor
+                      - extract AST path using extractor
                       - collect attention-score given by models to each path
                       - select topk AST path based on attention score
                   - points to be noted
