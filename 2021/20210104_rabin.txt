@@ -1,0 +1,22 @@
+In the past week:
+
+    1. [DD-Model] - check IG approach for code2vec/code2seq
+                  - code-vectors are the aggregation of all path-contexts with attention scores
+                  - work in progress, still didn't find way to adopt for code2vec/code2seq
+                  
+    2. [DD-Model] - check attention score to highlight AST path
+                      - extract path-context using extractor
+                      - collect attention-score given by models to each path
+                      - select topk AST path based on attention score
+                  - points to be noted
+                      - code2seq: attention score for each sub-token prediction
+                      - code2vec: AST path instead of hash value
+
+Plan for the next week:
+
+    1. [DD-Model] - DD/Perses on rare method names
+                    - find rare method names: less frequent or p <= 0.5
+                    - run DD/Perses on rare method names 
+    
+    2. [DD-Model] - Overleaf draft
+    
