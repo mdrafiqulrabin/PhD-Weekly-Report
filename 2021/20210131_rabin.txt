@@ -1,0 +1,18 @@
+In the past week:
+
+    1. [DD-code2x] - DD/Perses on rare method names
+                   - find rare method names: less frequent or p <= 0.5
+                   - run DD/Perses on rare method names
+                   - fix issues for code2vec, re-run everything again!
+
+    2. [DD-Great] - train RNN for few steps for testing purpose
+                  - create a demo output for VM task
+                    - [a] first, DD shouldn't not remove tokens at "error_loc, repair_targets, repair_candidates" positions,
+                    - [b] second, update the index of "error_loc, repair_targets, repair_candidates" when DD removes some tokens.
+                    
+    3. SERG - Weekly Presentation
+                  - Infercode paper by Nghi D. Q. Bui
+
+Plan for the next week:
+
+    1. [DD-Great] - run DD for VM task using RNN and Transformer
