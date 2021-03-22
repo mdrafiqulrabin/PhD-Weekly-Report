@@ -1,0 +1,11 @@
+In the past week:
+
+  - SAC-SVT Presentation
+  - arXiv articles update
+  - Check pending projects
+  
+Plan for the next week:
+
+  - Reproduce memorization work
+  - Keep running DD-Model
+  
