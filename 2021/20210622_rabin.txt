@@ -1,11 +1,26 @@
 In the past week:
 
-  - Got stuck into L* approach, check Automata and RNN.
+  - Check L* approach, Automata and RNN.
        - https://arxiv.org/pdf/1711.09576.pdf
        - https://arxiv.org/pdf/1902.10297.pdf
-  - Completed memorization for JM
+       
+  - Memorization for JM
   
 Plan for the next week:
 
   - Memorization work for java-top10
-  - Study about Neuro-Symbolic AI
+
+
+Other interesting topics:
+
+  - The Programmer's Brain:
+    Given a program, categorize the variable names, I.e. Constant, Aggregate 
+
+  - Evaluation of source code
+    Original Java-Large
+    Updated JL Repository
+
+  - References:
+    ACL: Text to SQL
+    ISSTA: Seed Selection Work
+    Neuro-Symbolic AI
