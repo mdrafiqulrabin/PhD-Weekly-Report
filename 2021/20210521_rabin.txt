@@ -1,0 +1,4 @@
+- Meeting and plan with Aftab for DD-batch processing
+- Meeting and plan for Soodeh's paper on NLP testing
+- Running memorization experiment 5 times for SA-dataset
+- Draw plots with average results of 5 runs
