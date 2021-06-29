@@ -1,2 +1,9 @@
-- Camera-ready of SIVAND paper
-- Preprint of memorization paper
+In the past week:
+
+  - Camera-ready of SIVAND paper
+  - Preprint of memorization paper
+  
+Plan for the next week:
+
+  - Read L* paper and check applicability
+  - Continue memorization work
