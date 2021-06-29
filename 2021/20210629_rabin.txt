@@ -1,0 +1,14 @@
+In the past week:
+
+  - Memorization on java-top10
+  - Deduplicate java-small dataset
+
+Plan for the next week:
+
+  - Perform DD on equals and run
+  - Study about L* approach
+
+Other interesting topics:
+
+  - Merging non-flaky tests may cause flaky
+  - Split flaky test into multiple tests as non-flaky
