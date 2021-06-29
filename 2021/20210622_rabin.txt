@@ -1,0 +1,11 @@
+In the past week:
+
+  - Got stuck into L* approach, check Automata and RNN.
+       - https://arxiv.org/pdf/1711.09576.pdf
+       - https://arxiv.org/pdf/1902.10297.pdf
+  - Completed memorization for JM
+  
+Plan for the next week:
+
+  - Memorization work for java-top10
+  - Study about Neuro-Symbolic AI
