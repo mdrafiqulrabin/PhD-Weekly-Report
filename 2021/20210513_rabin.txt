@@ -1,0 +1,11 @@
+In the past week:
+
+  - Partially completed memorization experiments of JM, although not included for submission.
+  - ICSME 2021 Submission: Memorization and Generalization in Neural Code Intelligence Models
+  
+Plan for the next week:
+
+  - Finished all pending TA/Course works
+  - Checked all pending research projects
+  
+  
