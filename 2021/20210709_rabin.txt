@@ -1,0 +1,16 @@
+In the past week:
+
+  - Memorization:
+      - java-top10 for 50 epochs (average of 5 times)
+      - java-mid for 20 epochs (single run)
+      - Update plots of java-top10
+      
+  - DD L*:
+      - running dd on java-top10 tranining set
+      - checking GitHub repo for L* approach
+
+Plan for the next week:
+
+  - attend ISSTA talks and Summer school
+  - make L* algorithm running for source code data
+  - keep running dd on java-top10 tranining set
