@@ -16,6 +16,7 @@ ISSTA 2021 Attendance:
           - Exposing Previously Undetectable Faults in Deep Neural Networks (https://doi.org/10.1145/3460319.3464801)
           - DeepCrime: Mutation Testing of Deep Learning Systems Based on Real Faults (https://doi.org/10.1145/3460319.3464825)
           - DeepHyperion: Exploring the Feature Space of Deep Learning-Based Systems through Illumination Search (https://dl.acm.org/doi/pdf/10.1145/3460319.3464811)
+          - ModelDiff: Testing-based DNN Similarity Comparison for Model Reuse Detection (https://dl.acm.org/doi/10.1145/3460319.3464816)
 
       - Fuzzing
           - Seed Selection for Successful Fuzzing (https://doi.org/10.1145/3460319.3464795)
