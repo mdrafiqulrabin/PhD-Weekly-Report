@@ -1,0 +1,16 @@
+
+In the past week:
+
+  - Setup inferrer tool (https://github.com/steynvl/inferrer) for L* algorithm
+      - Successfully install and run for default inputs
+      - Working on the source code inputs
+
+  - FSE'21 Camera-ready and Artifacts
+
+  - Study Chapter 16: Learning Automata and Languages
+    https://mitpress.ublish.com/ereader/7093/?preview=#page/359
+
+
+Plan for the next week:
+
+  - TODO
