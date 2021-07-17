@@ -1,0 +1,29 @@
+ISSTA 2021 Attendance:
+
+      - Workshop on AI and Software Testing/Analysis
+          - NerdBug: Automated Bug Detection in Neural Networks
+          - Impact of Programming Languages on Machine Learning Bugs
+
+      - Summer School:
+          - Foundations of Software Testing
+          - Machine Learning for Developer Productivity
+
+      - Doctoral Symposium:
+          - Robustness Evaluation of Deep Learning System Based on Dempster-Shafer Theory
+
+      - Testing Deep Learning Systems
+          - Attack as Defense: Characterizing Adversarial Examples using Robustness (https://doi.org/10.1145/3460319.3464822)
+          - Exposing Previously Undetectable Faults in Deep Neural Networks (https://doi.org/10.1145/3460319.3464801)
+          - DeepCrime: Mutation Testing of Deep Learning Systems Based on Real Faults (https://doi.org/10.1145/3460319.3464825)
+          - DeepHyperion: Exploring the Feature Space of Deep Learning-Based Systems through Illumination Search (https://dl.acm.org/doi/pdf/10.1145/3460319.3464811)
+
+      - Fuzzing
+          - Seed Selection for Successful Fuzzing (https://doi.org/10.1145/3460319.3464795)
+          - Test-Case Prioritization for Configuration Testing (https://doi.org/10.1145/3460319.3464810)
+
+      - Tool Demo
+          - TauMed: Test Augmentation of Deep Learning in Medical Diagnosis (https://dl.acm.org/doi/pdf/10.1145/3460319.3469080)
+
+      - Discussions with Experts
+          - Advances in Testing
+          - Testing/Analysis and ML/DL
