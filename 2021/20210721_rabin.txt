@@ -1,0 +1,22 @@
+
+In the past week:
+
+  - Setup inferrer tool (https://github.com/steynvl/inferrer) for L* algorithm
+      - Install and run for default inputs
+      - Working on the source code inputs
+      https://github.com/mdrafiqulrabin/inferrer-code
+
+  - FSE'21 Camera-ready and Artifacts
+
+  - Study Chapter 16: Learning Automata and Languages
+    https://mitpress.ublish.com/ereader/7093/?preview=#page/359
+
+
+Plan for the next week:
+
+  - Check inferrer-l* for onCreate reduced program
+  - Learning Blended, Precise Semantic Program Embeddings
+    https://arxiv.org/abs/1907.02136
+    https://dl.acm.org/doi/abs/10.1145/3385412.3385999
+ - Source Code Normalization (i.e. Deepsmith)
+ 
