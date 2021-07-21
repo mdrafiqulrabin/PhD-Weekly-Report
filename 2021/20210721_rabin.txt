@@ -10,13 +10,20 @@ In the past week:
 
   - Study Chapter 16: Learning Automata and Languages
     https://mitpress.ublish.com/ereader/7093/?preview=#page/359
+    
+  - Related Papers: 
+    Ensemble: https://arxiv.org/pdf/2107.04773.pdf
+    Fuzzing: https://arxiv.org/pdf/2106.09242.pdf
+    Search GA: https://arxiv.org/pdf/2101.07910.pdf
 
 
 Plan for the next week:
 
   - Check inferrer-l* for onCreate reduced program
+  
   - Learning Blended, Precise Semantic Program Embeddings
     https://arxiv.org/abs/1907.02136
     https://dl.acm.org/doi/abs/10.1145/3385412.3385999
+    
  - Source Code Normalization (i.e. Deepsmith)
  
