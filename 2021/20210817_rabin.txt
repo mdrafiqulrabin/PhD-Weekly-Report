@@ -1,0 +1,12 @@
+In the past week:
+  - FSE'21 Presentation and Recording
+  - VM data and results preprocessing
+  Currently paused for ICSE submission:
+    - Check inferrer-l* for reduced program (i.e. onCreate)
+    - Check source code normalization approach (i.e. Deepsmith)
+    
+In the next week:
+  - Draw plots for VM results
+  - RQs for memorization
+  - Activity (Presentation & SV) in ESEC/FSE'21
+  
