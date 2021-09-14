@@ -1,0 +1,21 @@
+In the past week:
+
+  - Naidia Email:
+    - Noisy data points and hard-to-learn data points
+    - BERT
+    
+  - Idea List:
+    - Methodology for transparency: L*
+    - DD parallel batch processing
+    - CI library for data managment
+    - Compiler testing strategy for CI
+    - perses (syntax-guided) vs DD (syntax-unaware)
+    - code as image
+    - Tool for evaluation: robustness/generalization + structure
+    
+In the next week:
+
+  - JSS Happy Hour - TikTok Edition
+  - CodeBERT with DD
+  - Code as Image
+  
