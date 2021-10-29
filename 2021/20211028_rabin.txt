@@ -1,0 +1,12 @@
+In the past week:
+
+  - Saved code as images using python PIL
+  - Trained CNN on images and LSTM on tokens
+  - Performed xAlpha on the ResNet/AlexNet
+  - Submitted Code2Snapshot paper to FASE NIER 2022
+    
+In the next week:
+
+  - Try Github copilot
+  - SANER journal-first proposal on IST paper
+
