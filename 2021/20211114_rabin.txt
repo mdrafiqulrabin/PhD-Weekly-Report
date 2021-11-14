@@ -1,0 +1,10 @@
+In the past week:
+
+  - Github Copilot, report line break bug
+	https://github.com/github/feedback/discussions/6885
+  - ICSE 2022 Author Response
+
+In the next week:
+
+  - Research Methods in COSC
+  
