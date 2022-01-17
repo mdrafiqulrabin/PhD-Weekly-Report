@@ -1,0 +1,6 @@
+TODO:
+
+  - Proposal for DOE CI
+  - GitHub classroom assignment
+  - IST journal submission (memorization)
+  
