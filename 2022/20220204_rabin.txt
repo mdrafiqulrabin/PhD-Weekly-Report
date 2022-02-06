@@ -1,0 +1,11 @@
+In the past week:
+
+  - OOV transformation checking
+  - Assignment1 Grading and Assignment2 Setup
+  - Meeting and Presentation - Research Summary
+  
+In the next week:
+
+  - Email for PhD proposal 
+  - CodeBERT and Task
+  
