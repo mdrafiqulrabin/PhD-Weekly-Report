@@ -1,0 +1,9 @@
+In the past weeks:
+
+  - PhD Proposal Defense (Report + Presentation)
+    https://uh.edu/nsm/computer-science/events/calendar/index?view=e&id=416853#event
+  
+In the next weeks:
+
+  - CI Skepticism (RNN+CNN with Juliet/Infer)
+  
