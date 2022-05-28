@@ -1,0 +1,15 @@
+In the past weeks:
+
+  - CI Skepticism:
+	- Run DD with CNN and RNN models on normalized Juliet and s-bAbI datasets
+	- Overleaf with statistical information, box-plot and top-10 tokens
+  - IST 2022 Reviews on Memorization
+  - Camera-Ready for MAPS 2022
+
+In the next weeks:
+
+  - Artifact and Presentation for MAPS 2022
+  - Overleaf size for Memorization
+  - CI Skepticism RQs
+
+  
