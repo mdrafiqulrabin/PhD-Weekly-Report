@@ -1,0 +1,12 @@
+In the past month:
+
+  - Analyses of Memorization with Input Noise
+	- Method Name Leakage
+	- Statement Deletion
+	- Injecting Repair Information
+
+In the next month:
+
+  - Injecting Repair Information
+  - CodeBERT for Code Summarization
+
