@@ -1,0 +1,9 @@
+In the past month:
+
+  - Analyses of Memorization and Generalization with the CodeBERT Language Model
+  - Final revised paper with a LM evaluation for IST and arXiv
+
+In the next month:
+
+  - Tool papers for ProgramTransformation and FeatureExtraction
+ 
