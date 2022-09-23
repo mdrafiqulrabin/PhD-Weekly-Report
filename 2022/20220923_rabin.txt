@@ -1,0 +1,17 @@
+In the past month:
+
+  - IST camera-ready version of memorization paper
+	Link: https://arxiv.org/abs/2106.08704
+
+  - A tool for generating semantically equivalent transformed programs
+	Link: https://codeocean.com/capsule/2958348/tree/v1
+
+  - A tool for extracting key input features of code intelligence models
+	Link: https://codeocean.com/capsule/7985340/tree/v1
+
+In the next month:
+
+  - Submit final tool papers and softwares to SIMPAC 
+
+  - Finding distractor features of code models 
+
