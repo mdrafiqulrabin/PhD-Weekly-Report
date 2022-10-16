@@ -1,0 +1,15 @@
+In the past month:
+
+  - Analyzing distractor tokens for MethodNaming and VarMisuse tasks
+
+  - Studying Integrated Gradient (IG)
+	- Axiomatic Attribution for Deep Networks
+	- https://www.tensorflow.org/tutorials/interpretability/integrated_gradients
+
+In the next month:
+
+  - Integrated Gradient for Text/Code
+
+  - Analyzing distractor tokens for vulnerability detection task
+
+
