@@ -1,0 +1,15 @@
+In the past month:
+
+  - Analyzing distractor results for VulnerabilityDetection tasks
+  - 301 Parallel computing with OpenMP by UH HPE DSI
+  - Checking IG approaches for text data
+	- https://opensource.salesforce.com/OmniXAI/latest/tutorials/nlp/ig_tf.html
+	- https://huggingface.co/bert-large-uncased-whole-word-masking-finetuned-squad
+
+In the next month:
+
+  - Draw plots and update overleaf for distractor experiments
+  - Running IG approach for text/code models
+	- https://captum.ai/tutorials/Bert_SQUAD_Interpret
+
+
