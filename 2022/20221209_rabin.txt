@@ -1,0 +1,14 @@
+In the past month:
+
+  - Get word importance with IG by Captum from BERT model
+	- https://huggingface.co/bert-large-uncased-whole-word-masking-finetuned-squad
+	- https://captum.ai/tutorials/Bert_SQUAD_Interpret
+
+  - Modifying IG for code data
+
+
+In the next month:
+
+  - Compute IG value for CodeBERT and SoftVulnerabilityDetection models
+  - Run distractor experiment for CodeBERT model 
+
