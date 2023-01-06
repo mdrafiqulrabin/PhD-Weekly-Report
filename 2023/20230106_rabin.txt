@@ -1,0 +1,12 @@
+In the past month:
+
+  - Experiment with CodeBERT model for distractor
+  - Prediction probability change over samples
+  - Top distractor tokens by types
+
+In the next month:
+
+  - Save IG values for RNN/CNN code models
+  - Writing distractor and variable-role papers
+  - Submit papers to arXiv and InteNSE 2023
+
