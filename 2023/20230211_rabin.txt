@@ -1,0 +1,11 @@
+In the past month:
+
+  - Extract IG values for VulnerabilityDetection data using RNN/CNN models
+  - Finishing distractor and variable-role papers 
+  - Uploading papers to arXiv and InteNSE 2023
+  
+In the next month:
+
+  - UH SERG paper discussion with guest speakers
+  - Drafting PhD dissertation report
+
