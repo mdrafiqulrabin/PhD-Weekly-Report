@@ -1,0 +1,16 @@
+In the current month:
+
+
+- PhD Dissertation Defense 
+  - Title: Methodology for Evaluating the Generalizability and Interpreting the Prediction of Neural Code Intelligence Models
+  - Event (April 3, 2023): https://uh.edu/nsm/computer-science/events/calendar/index?view=e&id=636912#event
+  - Document (April 23, 2024): https://uh-ir.tdl.org/browse?type=title
+
+
+
+- Posters and Lightning Talks for the PhD Showcase
+  - Workshop (March 10, 2023), Draft (March 24, 2023), Presentation (April 14, 2023)
+  - Topic: Methodology for Inspecting Neural Models of Source Code
+  - Event: https://www.uh.edu/nsm/computer-science/events/phd-showcase/
+  - Slide: https://www.slideshare.net/mdrafiqulrabin/inspecting-neural-models-of-source-code
+
