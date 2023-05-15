@@ -1,0 +1,12 @@
+In the current month:
+
+
+- Spring 2023 University Commencement (May 12, 2023): NSM - Computer Science 
+  - Event: https://uh.edu/nsm/students/commencement/ 
+
+
+
+- Paper presentation at InteNSE workshop co-located with ICSE 23
+  - arXiv: https://arxiv.org/abs/2303.01739
+  - Event: https://conf.researchr.org/details/icse-2023/intense-2023-papers/5/Study-of-Distractors-in-Neural-Models-of-Code
+
